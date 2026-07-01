@@ -1,0 +1,1249 @@
+player_id,player_name,team,jersey_number,position,nationality,height_cm,weight_kg,club_name
+1,José Raúl Rangel,Mexico,1,Goalkeeper,Mexico,190,,CD Guadalajara
+12,Carlos Acevedo,Mexico,12,Goalkeeper,Mexico,185,,Club Santos Laguna
+13,Francisco Guillermo Ochoa,Mexico,13,Goalkeeper,Mexico,185,,AEL Limassol
+2,Jorge Eduardo Sanchez,Mexico,2,Defender,Mexico,176,,PAOK Saloniki
+3,César Jasib Montes,Mexico,3,Defender,Mexico,191,,FC Lokomotiv Moscow
+4,Edson Omar Alvarez,Mexico,4,Defender,Mexico,180,,Fenerbahçe SK
+5,Johan Felipe Vasquez,Mexico,5,Defender,Mexico,182,,Genoa CFC
+15,Israel Reyes,Mexico,15,Defender,Mexico,181,,Club América
+20,Mateo Chavez,Mexico,20,Defender,Mexico,178,,AZ Alkmaar
+23,Jesús Daniel Gallardo,Mexico,23,Defender,Mexico,174,,Deportivo Toluca FC
+6,Erik Antonio Lira,Mexico,6,Midfielder,Mexico,172,,CF Cruz Azul
+7,Luis Francisco Romo,Mexico,7,Midfielder,Mexico,183,,CD Guadalajara
+8,Álvaro Fidalgo,Mexico,8,Midfielder,Mexico,175,,Real Betis
+17,Orbelín Pineda,Mexico,17,Midfielder,Mexico,169,,AEK Athens
+18,Obed Goméz Vargas,Mexico,18,Midfielder,Mexico,175,,Atlético De Madrid
+19,Gilberto Rafael Mora,Mexico,19,Midfielder,Mexico,175,,Club Tijuana
+24,Luis Gerardo Chavez,Mexico,24,Midfielder,Mexico,178,,FC Dynamo Moscow
+26,Brian Gutierrez,Mexico,26,Midfielder,Mexico,178,,CD Guadalajara
+9,Raúl Alonso Jimenez,Mexico,9,Forward,Mexico,188,,Fulham FC
+10,Ernesto Alexis Vega,Mexico,10,Forward,Mexico,175,,Deportivo Toluca FC
+11,Santiago Tomás Gimenez,Mexico,11,Forward,Mexico,180,,AC Milan
+14,Armando Gonzalez,Mexico,14,Forward,Mexico,182,,CD Guadalajara
+16,Julián Andrés Quinones,Mexico,16,Forward,Mexico,177,,Al Qadsiah FC
+21,César Saúl Huerta,Mexico,21,Forward,Mexico,171,,RSC Anderlecht
+22,Guillermo Martinez,Mexico,22,Forward,Mexico,191,,Pumas UNAM
+25,Roberto Carlos Alvarado,Mexico,25,Forward,Mexico,176,,CD Guadalajara
+27,Ronwen Hayden Williams,South Africa,1,Goalkeeper,South Africa,184,,Mamelodi Sundowns FC
+42,Sipho Justin Chaine,South Africa,16,Goalkeeper,South Africa,186,,Orlando Pirates FC
+48,Stuart Ricardo Goss,South Africa,22,Goalkeeper,South Africa,181,,Siwelele FC
+28,Tholo Thabang Matuludi,South Africa,2,Defender,South Africa,189,,Polokwane City FC
+29,Khulumani Ndamane,South Africa,3,Defender,South Africa,183,,Mamelodi Sundowns FC
+32,Aubrey Maphosa Modiba,South Africa,6,Defender,South Africa,171,,Mamelodi Sundowns FC
+40,Mbekezeli Mfanufikile Mbokazi,South Africa,14,Defender,South Africa,177,,Chicago Fire FC
+44,Samukele Alucious Kabini,South Africa,18,Defender,South Africa,179,,Molde FK
+45,Nkosinathi Emmanuel Sibisi,South Africa,19,Defender,South Africa,172,,Orlando Pirates FC
+46,Khuliso Johnson Mudau,South Africa,20,Defender,South Africa,179,,Mamelodi Sundowns FC
+47,Ime Daniel Okon,South Africa,21,Defender,South Africa,187,,Hannover 96
+50,Olwethu Mpilwenhle Makhanya,South Africa,24,Defender,South Africa,185,,Philadelphia Union
+52,Bradley Paul Cross,South Africa,26,Defender,South Africa,175,,Kaizer Chiefs FC
+30,Teboho Mokoena,South Africa,4,Midfielder,South Africa,177,,Mamelodi Sundowns FC
+31,Thalente Wandile Mbatha,South Africa,5,Midfielder,South Africa,179,,Orlando Pirates FC
+37,Themba Zwane,South Africa,11,Midfielder,South Africa,178,,Mamelodi Sundowns FC
+39,Sphephelo S'miso Sithole,South Africa,17,Midfielder,South Africa,197,,CD Tondela
+49,Jayden Oswin Adams,South Africa,23,Midfielder,South Africa,177,,Mamelodi Sundowns FC
+33,Oswin Reagan Appollis,South Africa,7,Forward,South Africa,171,,Orlando Pirates FC
+34,Tshepang Moremi,South Africa,8,Forward,South Africa,169,,Orlando Pirates FC
+35,Lyle Brent Foster,South Africa,9,Forward,South Africa,185,,Burnley FC
+36,Relebohile Mofokeng,South Africa,10,Forward,South Africa,168,,Orlando Pirates FC
+38,Thapelo Maseko,South Africa,12,Forward,South Africa,178,,AEL Limassol
+41,Iqraam Rayners,South Africa,15,Forward,South Africa,174,,Mamelodi Sundowns FC
+43,Sekotori Evidence Makgopa,South Africa,17,Forward,South Africa,183,,Orlando Pirates FC
+51,Kamogelo Michael Sebelebele,South Africa,25,Forward,South Africa,166,,Orlando Pirates FC
+53,Seunggyu Kim,South Korea,1,Goalkeeper,South Korea,187,,FC Tokyo
+64,Bumkeun Song,South Korea,2,Goalkeeper,South Korea,196,,Jeonbuk Hyundai Motors FC
+73,Hyeonwoo Jo,South Korea,21,Goalkeeper,South Korea,189,,Ulsan HD
+54,Hanbeom Lee,South Korea,2,Defender,South Korea,188,,FC Midtjylland
+56,Minjae Kim,South Korea,5,Defender,South Korea,190,,FC Bayern München
+57,Taehyeon Kim,South Korea,5,Defender,South Korea,186,,Kashima Antlers
+65,Taeseok Lee,South Korea,13,Defender,South Korea,174,,FK Austria Wien
+66,Wije Cho,South Korea,8,Defender,South Korea,190,,Jeonbuk Hyundai Motors FC
+67,Moonhwan Kim,South Korea,15,Defender,South Korea,173,,Daejeon Hana Citizen FC
+68,Jinseob Park,South Korea,23,Defender,South Korea,183,,Zhejiang FC
+74,Youngwoo Seol,South Korea,22,Defender,South Korea,180,,FK Crvena Zvezda
+75,Jens Castrop,South Korea,23,Defender,South Korea,178,,Borussia Mönchengladbach
+55,Gihyuk Lee,South Korea,3,Midfielder,South Korea,184,,Gangwon FC
+58,Inbeom Hwang,South Korea,14,Midfielder,South Korea,177,,Feyenoord Rotterdam
+60,Seungho Paik,South Korea,8,Midfielder,South Korea,182,,Birmingham City FC
+62,Jae Sung Lee,South Korea,16,Midfielder,South Korea,180,,1. FSV Mainz 05
+63,Hee Chan Hwang,South Korea,17,Midfielder,South Korea,177,,Wolverhampton Wanderers FC
+69,Junho Bae,South Korea,18,Midfielder,South Korea,180,,Stoke City FC
+71,Kangin Lee,South Korea,19,Midfielder,South Korea,174,,Paris Saint-Germain
+72,Hyunjun Yang,South Korea,20,Midfielder,South Korea,179,,Celtic FC
+76,Jingyu Kim,South Korea,21,Midfielder,South Korea,177,,Jeonbuk Hyundai Motors FC
+77,Jisung Eom,South Korea,25,Midfielder,South Korea,177,,Swansea City AFC
+78,Donggyeong Lee,South Korea,26,Midfielder,South Korea,175,,Ulsan HD
+59,Heung Min Son,South Korea,7,Forward,South Korea,183,,LAFC
+61,Guesung Cho,South Korea,9,Forward,South Korea,188,,FC Midtjylland
+70,Hyeongyu Oh,South Korea,18,Forward,South Korea,183,,Be ş ikta ş  JK
+79,Mat ě j Kovar,Czechia,1,Goalkeeper,Czechia,196,,PSV Eindhoven
+94,Jind ř ich Stanek,Czechia,16,Goalkeeper,Czechia,192,,SK Slavia Praha
+101,Lukáš Hornicek,Czechia,23,Goalkeeper,Czechia,198,,SC Braga
+80,David Zima,Czechia,2,Defender,Czechia,190,,SK Slavia Praha
+81,Tomáš Holes,Czechia,3,Defender,Czechia,180,,SK Slavia Praha
+82,Robin Hranac,Czechia,4,Defender,Czechia,189,,TSG Hoffenheim
+83,Vladimír Coufal,Czechia,5,Defender,Czechia,175,,TSG Hoffenheim
+84,ě pán Chaloupek,Czechia,6,Defender,Czechia,188,,SK Slavia Praha
+85,Ladislav Krejci,Czechia,7,Defender,Czechia,191,,Wolverhampton Wanderers FC
+92,David Jurasek,Czechia,14,Defender,Czechia,183,,SK Slavia Praha
+98,Jaroslav Zeleny,Czechia,20,Defender,Czechia,190,,AC Sparta Praha
+99,David Doudera,Czechia,21,Defender,Czechia,175,,SK Slavia Praha
+86,Vladimír Darida,Czechia,8,Midfielder,Czechia,172,,FC Hradec Králové
+90,Lukáš Cerv,Czechia,12,Midfielder,Czechia,182,,FC Viktoria Plze ň
+95,Lukáš Provod,Czechia,17,Midfielder,Czechia,191,,SK Slavia Praha
+96,Michal Sadilek,Czechia,18,Midfielder,Czechia,169,,SK Slavia Praha
+100,Tomáš Soucek,Czechia,22,Midfielder,Czechia,192,,West Ham United FC
+102,Alexandr Sojka,Czechia,24,Midfielder,Czechia,188,,FC Viktoria Plze ň
+103,Hugo Sochurek,Czechia,25,Midfielder,Czechia,183,,AC Sparta Praha
+87,Adam Hlozek,Czechia,9,Forward,Czechia,188,,TSG Hoffenheim
+88,Patrik Schick,Czechia,10,Forward,Czechia,191,,Bayer 04 Leverkusen
+89,Jan Kuchta,Czechia,11,Forward,Czechia,185,,AC Sparta Praha
+91,Mojmír Chytil,Czechia,13,Forward,Czechia,187,,SK Slavia Praha
+93,Pavel Sulc,Czechia,15,Forward,Czechia,177,,Olympique Lyonnais
+97,Tomáš Chory,Czechia,19,Forward,Czechia,199,,SK Slavia Praha
+104,Denis Visinsky,Czechia,26,Forward,Czechia,178,,FC Viktoria Plze ň
+105,Dayne Tristan St. Clair,Canada,1,Goalkeeper,Canada,191,,Inter Miami CF
+120,Maxime Crepeau,Canada,2,Goalkeeper,Canada,185,,Orlando City SC
+122,Owen Olamidayo Goodman,Canada,3,Goalkeeper,Canada,193,,Barnsley
+106,Alistair William Johnston,Canada,4,Defender,Canada,180,,Celtic FC
+107,Alfie Charles Jones,Canada,5,Defender,Canada,191,,Middlesbrough FC
+108,Luc De Fougerolles,Canada,6,Defender,Canada,183,,FCV Dender EH
+109,Joel Robert Waterman,Canada,7,Defender,Canada,185,,Chicago Fire FC
+117,Derek Austin Cornelius,Canada,8,Defender,Canada,186,,Rangers FC
+119,Moïse Bombito,Canada,9,Defender,Canada,190,,OGC Nice
+123,Alphonso Boyle Davies,Canada,10,Defender,Canada,183,,FC Bayern München
+126,Richmond Mamah Laryea,Canada,11,Defender,Canada,175,,Toronto FC
+127,Niko Kristian Sigur,Canada,12,Defender,Canada,178,,HNK Hajduk Split
+110,Mathieu Choiniere,Canada,13,Midfielder,Canada,173,,LAFC
+111,Stephen Eustaquio,Canada,14,Midfielder,Canada,175,,LAFC
+112,Ismaël Kenneth Jordan Kone,Canada,15,Midfielder,Canada,188,,US Sassuolo
+115,Liam Alan Millar,Canada,16,Midfielder,Canada,176,,Hull City FC
+118,Jacob Everett Shaffelburg,Canada,17,Midfielder,Canada,181,,LAFC
+125,Jonathan Osorio,Canada,18,Midfielder,Canada,175,,Toronto FC
+129,Nathan-Dylan Saliba,Canada,19,Midfielder,Canada,174,,RSC Anderlecht
+113,Cyle Christopher Larin,Canada,20,Forward,Canada,188,,Southampton FC
+114,Jonathan Christian David,Canada,21,Forward,Canada,175,,Juventus FC
+116,Tanitoluwa Oluwatimilehin Oluwaseyi,Canada,22,Forward,Canada,187,,Villarreal CF
+121,Tajon Trevor Buchanan,Canada,23,Forward,Canada,183,,Villarreal CF
+124,Ali Ahmed,Canada,24,Forward,Canada,180,,Norwich City FC
+128,Promise Oluwatobi Emmanuel David,Canada,25,Forward,Canada,195,,Royale Union Saint-Gilloise
+130,Jayden Nelson,Canada,26,Forward,Canada,170,,Austin FC
+131,Nikola Vasilj,Bosnia-Herzegovina,1,Goalkeeper,Bosnia-Herzegovina,193,,FC St. Pauli
+142,Mladen Jurkas,Bosnia-Herzegovina,12,Goalkeeper,Bosnia-Herzegovina,193,,FK Borac Banja Luka
+152,Martin Zlomislic,Bosnia-Herzegovina,22,Goalkeeper,Bosnia-Herzegovina,189,,HNK Rijeka
+132,Nihad Mujakic,Bosnia-Herzegovina,2,Defender,Bosnia-Herzegovina,189,,Gaziantep FK
+133,Dennis Hadzikadunic,Bosnia-Herzegovina,3,Defender,Bosnia-Herzegovina,191,,UC Sampdoria
+134,Tarik Muharemovic,Bosnia-Herzegovina,4,Defender,Bosnia-Herzegovina,192,,US Sassuolo
+135,Sead Kolasinac,Bosnia-Herzegovina,5,Defender,Bosnia-Herzegovina,183,,Atalanta Bergamo
+137,Amar Dedic,Bosnia-Herzegovina,7,Defender,Bosnia-Herzegovina,180,,SL Benfica
+148,Nikola Katic,Bosnia-Herzegovina,18,Defender,Bosnia-Herzegovina,194,,FC Schalke 04
+151,Stjepan Radeljic,Bosnia-Herzegovina,21,Defender,Bosnia-Herzegovina,201,,HNK Rijeka
+154,Arjan Malic,Bosnia-Herzegovina,24,Defender,Bosnia-Herzegovina,188,,SK Sturm Graz
+136,Benjamin Tahirovic,Bosnia-Herzegovina,6,Midfielder,Bosnia-Herzegovina,191,,Brøndby IF
+138,Armin Gigovic,Bosnia-Herzegovina,8,Midfielder,Bosnia-Herzegovina,187,,BSC Young Boys
+143,Ivan Basic,Bosnia-Herzegovina,13,Midfielder,Bosnia-Herzegovina,178,,FC Astana
+144,Ivan Sunjic,Bosnia-Herzegovina,14,Midfielder,Bosnia-Herzegovina,183,,Pafos FC
+145,Amar Memic,Bosnia-Herzegovina,15,Midfielder,Bosnia-Herzegovina,176,,FC Viktoria Plze ň
+146,Amir Hadziahmetovic,Bosnia-Herzegovina,16,Midfielder,Bosnia-Herzegovina,179,,Hull City FC
+147,Dzenis Burnic,Bosnia-Herzegovina,17,Midfielder,Bosnia-Herzegovina,182,,Karlsruher SC
+156,Ermin Mahmic,Bosnia-Herzegovina,26,Midfielder,Bosnia-Herzegovina,182,,FC Slovan Liberec
+139,Samed Bazdar,Bosnia-Herzegovina,9,Forward,Bosnia-Herzegovina,189,,Jagiellonia Bia ł ystok
+140,Ermedin Demirovic,Bosnia-Herzegovina,10,Forward,Bosnia-Herzegovina,185,,VfB Stuttgart
+141,Edin Dzeko,Bosnia-Herzegovina,11,Forward,Bosnia-Herzegovina,192,,FC Schalke 04
+149,Kerim Alajbegovic,Bosnia-Herzegovina,19,Forward,Bosnia-Herzegovina,186,,FC Red Bull Salzburg
+150,Esmir Bajraktarevic,Bosnia-Herzegovina,20,Forward,Bosnia-Herzegovina,175,,PSV Eindhoven
+153,Haris Tabakovic,Bosnia-Herzegovina,23,Forward,Bosnia-Herzegovina,196,,Borussia Mönchengladbach
+155,Jovo Lukic,Bosnia-Herzegovina,25,Forward,Bosnia-Herzegovina,190,,Universitatea Cluj
+157,Ibrahim Mahmoud Abunada,Qatar,1,Goalkeeper,Qatar,185,,Al Rayyan SC
+177,Zakaria Salah Zakaria,Qatar,21,Goalkeeper,Qatar,186,,Al Duhail SC
+178,Aissa Meshaal Barsham,Qatar,22,Goalkeeper,Qatar,180,,Al Sadd SC
+158,Miguel Pedro,Qatar,2,Defender,Qatar,180,,Al Sadd SC
+159,Michel Lucas,Qatar,5,Defender,Qatar,179,,Al Wakrah SC
+160,Gueye Issa Laye,Qatar,4,Defender,Qatar,178,,Al Arabi SC
+161,Gaber Jassem,Qatar,5,Defender,Qatar,181,,Al Rayyan SC
+169,Mohamed Ayoub Aloui,Qatar,13,Defender,Qatar,181,,Al Gharafa SC
+170,Elamin Homam,Qatar,6,Defender,Qatar,188,,Cultural Leonesa
+172,KHOUKHIBoualem Boualem,Qatar,16,Defender,Qatar,185,,Al Sadd SC
+174,Hussain Sultan,Qatar,10,Defender,Qatar,178,,Al Duhail SC
+181,Alhussein Alhashmi,Qatar,24,Defender,Qatar,182,,Al Arabi SC
+162,Hatim Abdulaziz Hatem,Qatar,6,Midfielder,Qatar,179,,Al Rayyan SC
+168,Karim Boudiaf,Qatar,12,Midfielder,Qatar,190,,Al Duhail SC
+173,Mohamed Ahmed Alganehi,Qatar,17,Midfielder,Qatar,175,,Al Gharafa SC
+176,Fathy Ahmed Fathy,Qatar,20,Midfielder,Qatar,171,,Al Arabi SC
+179,Omer Assim Madibo,Qatar,23,Midfielder,Qatar,168,,Al Wakrah SC
+163,Alaaeldin Ahmed,Qatar,7,Forward,Qatar,179,,Al Rayyan SC
+164,Junior Edmilson,Qatar,8,Forward,Qatar,180,,Al Duhail SC
+165,Mohammed Muntari,Qatar,9,Forward,Qatar,192,,Al Gharafa SC
+166,Khalid Hassan Alhaydos,Qatar,10,Forward,Qatar,174,,Al Sadd SC
+167,Hassan Akram,Qatar,10,Forward,Qatar,176,,Al Sadd SC
+171,Abdurisag Yusuf Abdurisag,Qatar,15,Forward,Qatar,171,,Al Wakrah SC
+175,Ali Zainelabdeen Almoez,Qatar,24,Forward,Qatar,180,,Al Duhail SC
+180,Mohammad Tahsin,Qatar,26,Forward,Qatar,166,,Al Duhail SC
+182,Naceur Mohamed Manai,Qatar,26,Forward,Qatar,180,,Al Shamal SC
+183,Gregor Kobel,Switzerland,1,Goalkeeper,Switzerland,196,,Borussia Dortmund
+194,Yvon Landry Mvogo,Switzerland,12,Goalkeeper,Switzerland,190,,FC Lorient
+203,Marvin Keller,Switzerland,21,Goalkeeper,Switzerland,189,,BSC Young Boys
+184,Miro Max Maria Muheim,Switzerland,2,Defender,Switzerland,182,,Hamburger SV
+185,Silvan Dominic Widmer,Switzerland,3,Defender,Switzerland,183,,1. FSV Mainz 05
+186,Nico Elvedi,Switzerland,4,Defender,Switzerland,189,,Borussia Mönchengladbach
+187,Manuel Obafemi Akanji,Switzerland,5,Defender,Switzerland,188,,FC Internazionale Milano
+195,Ricardo Ivan Rodriguez,Switzerland,13,Defender,Switzerland,182,,Real Betis
+200,Eray Ervin Coemert,Switzerland,18,Defender,Switzerland,183,,Valencia CF
+206,Aurèle Florian Amenda,Switzerland,24,Defender,Switzerland,194,,Eintracht Frankfurt
+207,Luca Antony Jaquez,Switzerland,25,Defender,Switzerland,187,,VfB Stuttgart
+188,Denis Lemi Zakaria,Switzerland,6,Midfielder,Switzerland,189,,AS Monaco
+190,Remo Marco Freuler,Switzerland,8,Midfielder,Switzerland,181,,Bologna FC
+191,Johan Kula Manzambi,Switzerland,9,Midfielder,Switzerland,182,,SC Freiburg
+192,Granit Xhaka,Switzerland,10,Midfielder,Switzerland,183,,Sunderland AFC
+196,Ardon Jashari,Switzerland,14,Midfielder,Switzerland,181,,AC Milan
+197,Djibril Ibrahima Sow,Switzerland,15,Midfielder,Switzerland,183,,Sevilla FC
+202,Michel Aebischer,Switzerland,20,Midfielder,Switzerland,183,,Pisa SC
+204,Fabian Rieder,Switzerland,22,Midfielder,Switzerland,181,,FC Augsburg
+189,Breel Donald Embolo,Switzerland,7,Forward,Switzerland,184,,Stade Rennais FC
+193,Dan Ndoye,Switzerland,11,Forward,Switzerland,184,,Nottingham Forest FC
+198,Christian Andreas Fassnacht,Switzerland,16,Forward,Switzerland,185,,BSC Young Boys
+199,Ruben Estephan Vargas,Switzerland,17,Forward,Switzerland,179,,Sevilla FC
+201,Noah Arinzechukwu Okafor,Switzerland,19,Forward,Switzerland,185,,Leeds United FC
+205,Mohamed Zeki Amdouni,Switzerland,23,Forward,Switzerland,183,,Burnley FC
+208,Cedric Jan Itten,Switzerland,26,Forward,Switzerland,190,,Fortuna Düsseldorf
+209,Ramsés Alisson,Brazil,1,Goalkeeper,Brazil,193,,Liverpool FC
+220,Weverton,Brazil,12,Goalkeeper,Brazil,189,,Grêmio FBPA
+231,Ederson,Brazil,23,Goalkeeper,Brazil,188,,Fenerbahçe SK
+211,Gabriel Magalhaes,Brazil,3,Defender,Brazil,190,,Arsenal FC
+212,MARQUINHOSMarcos,Brazil,5,Defender,Brazil,183,,Paris Saint-Germain
+214,Sandro Alex,Brazil,6,Defender,Brazil,180,,CR Flamengo
+221,Luiz Danilo,Brazil,21,Defender,Brazil,184,,CR Flamengo
+222,Bremer,Brazil,14,Defender,Brazil,188,,Juventus FC
+223,PEREIRALeonardo Leo,Brazil,9,Defender,Brazil,189,,CR Flamengo
+224,Douglas Santos,Brazil,16,Defender,Brazil,173,,FC Zenit St. Petersburg
+232,IBANEZRoger Roger,Brazil,11,Defender,Brazil,186,,Al Ahli FC
+210,José Ederson Silva,Brazil,23,Midfielder,Brazil,184,,Atalanta Bergamo
+213,Henrique,Brazil,21,Midfielder,Brazil,185,,Manchester United FC
+216,GUIMARAESBruno Bruno,Brazil,14,Midfielder,Brazil,182,,Newcastle United FC
+225,Henrique Fabinho,Brazil,17,Midfielder,Brazil,188,,Al Ittihad
+226,Danilo Santos,Brazil,18,Midfielder,Brazil,177,,Botafogo
+228,Lucas Paqueta,Brazil,20,Midfielder,Brazil,183,,CR Flamengo
+215,José Vinicius,Brazil,7,Forward,Brazil,176,,Real Madrid C. F.
+217,Matheus Cunha,Brazil,9,Forward,Brazil,183,,Manchester United FC
+218,Neymar Jr,Brazil,10,Forward,Brazil,175,,Santos FC
+219,Raphael Raphinha,Brazil,11,Forward,Brazil,176,,FC Barcelona
+227,Felipe Endrick,Brazil,19,Forward,Brazil,172,,Olympique Lyonnais
+229,Henrique André Luiz,Brazil,21,Forward,Brazil,182,,FC Zenit St. Petersburg
+230,MARTINELLIGabriel Gabriel,Brazil,22,Forward,Brazil,178,,Arsenal FC
+233,Thiago Igor Thiago,Brazil,25,Forward,Brazil,190,,Brentford FC
+234,Vitor Rayan,Brazil,26,Forward,Brazil,187,,AFC Bournemouth
+235,Yassine Bounou,Morocco,1,Goalkeeper,Morocco,192,,Al Hilal SC
+246,Monir El Kajoui,Morocco,2,Goalkeeper,Morocco,190,,RS Berkane
+256,Ahmed Reda Tagnaouti,Morocco,3,Goalkeeper,Morocco,194,,ASFAR
+236,Achraf Hakimi,Morocco,4,Defender,Morocco,180,,Paris Saint-Germain
+237,Noussair Mazraoui,Morocco,5,Defender,Morocco,183,,Manchester United FC
+239,Marwane Saadane,Morocco,6,Defender,Morocco,185,,Al Fateh SC
+247,Zakaria El Ouahdi,Morocco,7,Defender,Morocco,171,,KRC Genk
+248,Issa Laye Lucas Jean Diop,Morocco,8,Defender,Morocco,194,,Fulham FC
+252,Chadi Riad,Morocco,9,Defender,Morocco,186,,Crystal Palace FC
+253,Youssef Belammari,Morocco,10,Defender,Morocco,175,,Al Ahly FC
+259,Redouane Halhal,Morocco,11,Defender,Morocco,189,,KV Mechelen
+260,Anass Salah Eddine,Morocco,12,Defender,Morocco,181,,PSV Eindhoven
+238,Sofyan Amrabat,Morocco,13,Midfielder,Morocco,185,,Real Betis
+240,Ayyoub Bouaddi,Morocco,14,Midfielder,Morocco,185,,Lille OSC
+241,Chemsdine Talbi,Morocco,15,Midfielder,Morocco,175,,Sunderland AFC
+242,Azz-Eddine Ounahi,Morocco,16,Midfielder,Morocco,182,,Girona FC
+245,Ismael Saibari,Morocco,17,Midfielder,Morocco,185,,PSV Eindhoven
+249,Samir El Mourabet,Morocco,18,Midfielder,Morocco,187,,RC Strasbourg
+250,Gessime Ben Youssef Mustapha Yassine,Morocco,19,Midfielder,Morocco,172,,RC Strasbourg
+257,Bilal El Khannouss,Morocco,20,Midfielder,Morocco,180,,VfB Stuttgart
+258,Neil Yoni El Aynaoui,Morocco,21,Midfielder,Morocco,185,,AS Roma
+243,Soufiane Rahimi,Morocco,22,Forward,Morocco,180,,Al Ain FC
+244,Brahim Diaz,Morocco,23,Forward,Morocco,170,,Real Madrid C. F.
+251,Mohamed Amine Sbai,Morocco,24,Forward,Morocco,175,,Angers SCO
+254,Ayoub El Kaabi,Morocco,25,Forward,Morocco,182,,Olympiacos FC
+255,Ayoube Amaimouni,Morocco,26,Forward,Morocco,179,,Eintracht Frankfurt
+261,Johny Placide,Haiti,1,Goalkeeper,Haiti,181,,SC Bastia
+272,Alexandre Jr Pierre,Haiti,12,Goalkeeper,Haiti,190,,FC Sochaux-Montbéliard
+283,Josue Duverger,Haiti,23,Goalkeeper,Haiti,187,,FC Cosmos Koblenz
+262,Carlens Jean Fedlaire Ruby Arcus,Haiti,2,Defender,Haiti,180,,Angers SCO
+263,Keeto Thermoncy,Haiti,3,Defender,Haiti,179,,BSC Young Boys
+264,Ricardo Ade,Haiti,4,Defender,Haiti,190,,LDU Quito
+265,Hannes Piterson Delcroix,Haiti,5,Defender,Haiti,183,,FC Lugano
+268,Martin Yves Roberns Didier Experience,Haiti,8,Defender,Haiti,178,,AS Nancy
+273,Markhus Lacroix,Haiti,13,Defender,Haiti,175,,Colorado Springs Switchbacks FC
+274,Garven-Michee Metusala,Haiti,14,Defender,Haiti,186,,Colorado Springs Switchbacks FC
+282,Jean-Kévin Duverne,Haiti,22,Defender,Haiti,184,,KAA Gent
+284,Wilguens Raphael Polynice Paugain,Haiti,24,Defender,Haiti,180,,SV Zulte Waregem
+266,Carl Fred Sainte,Haiti,6,Midfielder,Haiti,182,,El Paso Locomotive FC
+270,Jean Ricner Bellegarde,Haiti,10,Midfielder,Haiti,170,,Wolverhampton Wanderers FC
+277,Danley Jean Jacques,Haiti,17,Midfielder,Haiti,182,,Philadelphia Union
+285,Dominique Celidor Simon,Haiti,25,Midfielder,Haiti,178,,FC Tatran Pre š ov
+286,Olivier Woodensky Pierre,Haiti,26,Midfielder,Haiti,177,,Violette AC
+267,Derrick Burckley Etienne,Haiti,7,Forward,Haiti,178,,Toronto FC
+269,Duckens Nazon,Haiti,9,Forward,Haiti,181,,Esteghlal Tehran FC
+271,Don Deedson,Haiti,11,Forward,Haiti,178,,FC Dallas
+275,Ruben Fritzner Providence,Haiti,15,Forward,Haiti,178,,Almere City FC
+276,Lenny Alvin Pico Joseph,Haiti,16,Forward,Haiti,182,,Ferencvárosi TC
+278,Wilson Isidor,Haiti,18,Forward,Haiti,184,,Sunderland AFC
+279,Yassin Enzo Fortune,Haiti,19,Forward,Haiti,186,,FC Vizela
+280,Frantzdy Pierrot,Haiti,20,Forward,Haiti,194,,Çaykur Rizespor
+281,Josue Jeremie Casimir,Haiti,21,Forward,Haiti,178,,AJ Auxerre
+287,Angus Fraser James Gunn,Scotland,1,Goalkeeper,Scotland,196,,Nottingham Forest FC
+298,Liam Patrick Kelly,Scotland,2,Goalkeeper,Scotland,184,,Rangers FC
+307,Craig Sinclair Gordon,Scotland,3,Goalkeeper,Scotland,193,,Heart Of Midlothian FC
+288,Aaron Buchanan Hickey,Scotland,4,Defender,Scotland,185,,Brentford FC
+289,Andrew Henry Robertson,Scotland,5,Defender,Scotland,178,,Liverpool FC
+291,Grant Campbell Hanley,Scotland,6,Defender,Scotland,188,,Hibernian FC
+292,Kieran Tierney,Scotland,7,Defender,Scotland,180,,Celtic FC
+299,Jack William Hendry,Scotland,8,Defender,Scotland,192,,Al Ettifaq FC
+301,John Francis Souttar,Scotland,9,Defender,Scotland,186,,Rangers FC
+302,Dominic John Hyam,Scotland,10,Defender,Scotland,188,,Wrexham AFC
+308,Nathan Kenneth Patterson,Scotland,11,Defender,Scotland,183,,Everton FC
+310,Anthony Ralston,Scotland,12,Defender,Scotland,178,,Celtic FC
+312,Mc,Scotland,13,Defender,Scotland,189,,GNK Dinamo Zagreb
+290,Mc,Scotland,14,Midfielder,Scotland,193,,SSC Napoli
+293,Mc,Scotland,15,Midfielder,Scotland,178,,Aston Villa FC
+294,Tyler Robert Fletcher,Scotland,16,Midfielder,Scotland,183,,Manchester United FC
+297,Ryan Christie,Scotland,17,Midfielder,Scotland,178,,AFC Bournemouth
+305,Lewis Ferguson,Scotland,18,Midfielder,Scotland,181,,Bologna FC
+309,Mc,Scotland,19,Midfielder,Scotland,183,,Norwich City FC
+295,Lyndon John Dykes,Scotland,20,Forward,Scotland,188,,Charlton Athletic FC
+296,Che Sac Everton Fred Adams,Scotland,21,Forward,Scotland,175,,Torino FC
+300,Ross Cameron Stewart,Scotland,22,Forward,Scotland,188,,Southampton FC
+303,Ben Gannon Gannon-Doak,Scotland,23,Forward,Scotland,173,,AFC Bournemouth
+304,George David Eric Hirst,Scotland,24,Forward,Scotland,191,,Ipswich Town FC
+306,Lawrence Shankland,Scotland,25,Forward,Scotland,185,,Heart Of Midlothian FC
+311,Findlay Kenneth Curtis,Scotland,26,Forward,Scotland,180,,Kilmarnock FC
+313,Matthew Charles Turner,United States,1,Goalkeeper,United States,190,,New England Revolution
+336,Matthew Andrew Geary Freese,United States,24,Goalkeeper,United States,198,,New York City FC
+337,Christopher Keith Brady,United States,25,Goalkeeper,United States,193,,Chicago Fire FC
+314,Sergiño Gianni Dest,United States,2,Defender,United States,173,,PSV Eindhoven
+315,Christopher Jeffrey Richards,United States,3,Defender,United States,189,,Crystal Palace FC
+317,Antonee Robinson,United States,5,Defender,United States,183,,Fulham FC
+318,Auston Levi-Jesaiah Trusty,United States,6,Defender,United States,190,,Celtic FC
+324,Miles Gordon Robinson,United States,12,Defender,United States,187,,FC Cincinnatti
+325,Timothy Michael Ream,United States,21,Defender,United States,186,,Charlotte FC
+328,Alexander Michael Freeman,United States,16,Defender,United States,188,,Villarreal CF
+330,Maximilian Michael Arfsten,United States,18,Defender,United States,185,,Columbus Crew
+334,Mc,United States,12,Defender,United States,186,,Toulouse FC
+335,Joseph Michael Scally,United States,23,Defender,United States,184,,Borussia Mönchengladbach
+316,Tyler Shaan Adams,United States,4,Midfielder,United States,175,,AFC Bournemouth
+319,Giovanni Alejandro Reyna,United States,7,Midfielder,United States,187,,Borussia Mönchengladbach
+320,Mc,United States,16,Midfielder,United States,180,,Juventus FC
+326,Sebastian Matthew Berhalter,United States,14,Midfielder,United States,175,,Vancouver Whitecaps FC
+327,Cristian Roldan,United States,15,Midfielder,United States,173,,Seattle Sounders FC
+329,Malik Leon Tillman,United States,17,Midfielder,United States,187,,Bayer 04 Leverkusen
+321,Ricardo Daniel Pepi,United States,9,Forward,United States,185,,PSV Eindhoven
+322,Christian Mate Pulisic,United States,10,Forward,United States,177,,AC Milan
+323,Brenden Russell Aaronson,United States,11,Forward,United States,177,,Leeds United FC
+331,Haji Amir Wright,United States,19,Forward,United States,191,,Coventry City FC
+332,Folarin Jolaoluwa Balogun,United States,20,Forward,United States,179,,AS Monaco
+333,Timothy Tarpeh Weah,United States,21,Forward,United States,183,,Olympique Marseille
+338,Alejandro Zendejas,United States,26,Forward,United States,167,,Club América
+339,Roberto Junior Fernandez,Paraguay,1,Goalkeeper,Paraguay,191,,Cerro Porteño
+350,Orlando Daniel Gill,Paraguay,12,Goalkeeper,Paraguay,190,,CA San Lorenzo
+360,Gastón Hernán Olveira,Paraguay,22,Goalkeeper,Paraguay,191,,Club Olimpia
+340,Victor Gustavo Velazquez,Paraguay,2,Defender,Paraguay,189,,Cerro Porteño
+341,Omar Federico Alderete,Paraguay,3,Defender,Paraguay,190,,Sunderland AFC
+342,Juan Jose Caceres,Paraguay,4,Defender,Paraguay,187,,FC Dynamo Moscow
+343,Fabián Cornelio Balbuena,Paraguay,5,Defender,Paraguay,188,,Grêmio FBPA
+344,Júnior Osmar Ignacio Alonso,Paraguay,6,Defender,Paraguay,184,,Atlético Mineiro
+351,Jose Maria Canale,Paraguay,13,Defender,Paraguay,192,,CA Lanús
+353,Gustavo Raul Gomez,Paraguay,15,Defender,Paraguay,179,,SE Palmeiras
+364,Alexandro Maidana,Paraguay,26,Defender,Paraguay,173,,CA Talleres
+345,Ramón Sosa,Paraguay,7,Midfielder,Paraguay,178,,SE Palmeiras
+346,Diego Alexander Gomez,Paraguay,8,Midfielder,Paraguay,183,,Brighton & Hove Albion FC
+348,Miguel Angel Almiron,Paraguay,10,Midfielder,Paraguay,178,,Atlanta United FC
+349,Mauricio,Paraguay,11,Midfielder,Paraguay,175,,SE Palmeiras
+352,Adrián Andrés Cubas,Paraguay,14,Midfielder,Paraguay,166,,Vancouver Whitecaps FC
+354,Damián Josue Bobadilla,Paraguay,16,Midfielder,Paraguay,180,,São Paulo FC
+358,Braian Oscar Ojeda,Paraguay,20,Midfielder,Paraguay,173,,Orlando City SC
+361,Matias Galarza,Paraguay,23,Midfielder,Paraguay,175,,Atlanta United FC
+362,Gustavo Ruben Caballero,Paraguay,24,Midfielder,Paraguay,189,,Portsmouth FC
+347,Arnaldo Antonio Sanabria,Paraguay,9,Forward,Paraguay,180,,US Cremonese
+355,Alejandro Sebastian Romero Gamarra,Paraguay,26,Forward,Paraguay,165,,Al Ain FC
+356,Alex Adrian Arce,Paraguay,18,Forward,Paraguay,188,,CS Independiente Rivadavia
+357,Julio Cesar Enciso,Paraguay,19,Forward,Paraguay,168,,RC Strasbourg
+359,Gabriel Avalos,Paraguay,21,Forward,Paraguay,185,,CA Independiente
+363,Isidro Miguel Pitta,Paraguay,25,Forward,Paraguay,185,,Red Bull Bragantino
+365,Mathew David Ryan,Australia,1,Goalkeeper,Australia,184,,Levante UD
+376,Paul David Izzo,Australia,2,Goalkeeper,Australia,184,,Randers FC
+382,Patrick Thomas Beach,Australia,3,Goalkeeper,Australia,189,,Melbourne City FC
+366,Milos Degenek,Australia,4,Defender,Australia,187,,APOEL FC
+367,Alessandro Circati,Australia,5,Defender,Australia,191,,Parma
+368,Jacob Michael Italiano,Australia,6,Defender,Australia,177,,Grazer AK
+369,Jordan Jacob Bos,Australia,7,Defender,Australia,180,,Feyenoord Rotterdam
+370,Jason Kato Geria,Australia,8,Defender,Australia,181,,Albirex Niigata
+379,Kai Clifton Trewin,Australia,9,Defender,Australia,183,,New York City FC
+380,Aziz Behich,Australia,10,Defender,Australia,170,,Melbourne City FC
+383,Harry James Souttar,Australia,11,Defender,Australia,198,,Leicester City FC
+385,Cameron Robert Burgess,Australia,12,Defender,Australia,194,,Swansea City AFC
+389,Lucas Herrington,Australia,13,Defender,Australia,193,,Colorado Rapids
+372,Connor Isaac Metcalfe,Australia,14,Midfielder,Australia,183,,FC St. Pauli
+377,Aiden Connor Oneill,Australia,15,Midfielder,Australia,180,,New York City FC
+378,Cameron Peter Devlin,Australia,16,Midfielder,Australia,170,,Heart Of Midlothian FC
+386,Jackson Alexander Irvine,Australia,17,Midfielder,Australia,189,,FC St. Pauli
+388,Paul Michael Junior Okon-Engstler,Australia,18,Midfielder,Australia,185,,Sydney FC
+371,Mathew Allan Leckie,Australia,19,Forward,Australia,181,,Melbourne City FC
+373,Mohamed Toure,Australia,20,Forward,Australia,186,,Norwich City FC
+374,Ajdin Hrustic,Australia,21,Forward,Australia,180,,SC Heracles Almelo
+375,Awer Bul Mabil,Australia,22,Forward,Australia,178,,CD Castellón
+381,Nestory Irankunda,Australia,23,Forward,Australia,165,,Watford FC
+384,Cristian Volpato,Australia,24,Forward,Australia,187,,US Sassuolo
+387,Nishan Matthew Velupillay,Australia,25,Forward,Australia,181,,Melbourne Victory FC
+390,Tete Owen Yengi,Australia,26,Forward,Australia,197,,FC Machida Zelvia
+391,Fehmi Mert Gunok,Turkey,1,Goalkeeper,Turkey,196,,Fenerbahçe SK
+402,Altay Bayindir,Turkey,12,Goalkeeper,Turkey,198,,Manchester United FC
+413,Ugurcan Cakir,Turkey,23,Goalkeeper,Turkey,191,,Galatasaray SK
+392,Mehmet Zeki Celik,Turkey,2,Defender,Turkey,180,,AS Roma
+393,Merih Demiral,Turkey,3,Defender,Turkey,190,,Al Ahli FC
+394,Ça ğ lar Soyuncu,Turkey,4,Defender,Turkey,185,,Fenerbahçe SK
+403,Evren Eren Elmali,Turkey,13,Defender,Turkey,181,,Galatasaray SK
+404,Abdülker Bardakci,Turkey,14,Defender,Turkey,185,,Galatasaray SK
+405,Ozan Muhammed Kabak,Turkey,15,Defender,Turkey,187,,TSG Hoffenheim
+408,Mert Muldur,Turkey,18,Defender,Turkey,184,,Fenerbahçe SK
+410,Ferdi Erenay Kadioglu,Turkey,20,Defender,Turkey,174,,Brighton & Hove Albion FC
+415,Samet Akaydin,Turkey,25,Defender,Turkey,190,,Çaykur Rizespor
+395,Salih Ozcan,Turkey,5,Midfielder,Turkey,182,,Borussia Dortmund
+396,Orkun Kokcu,Turkey,6,Midfielder,Turkey,175,,Be ş ikta ş  JK
+400,Hakan Calhanoglu,Turkey,10,Midfielder,Turkey,178,,FC Internazionale Milano
+406,Ismailİsma Yuksek,Turkey,16,Midfielder,Turkey,183,,Fenerbahçe SK
+412,Kaan Ayhan,Turkey,22,Midfielder,Turkey,185,,Galatasaray SK
+397,Muhammed Kerem Akturkoglu,Turkey,7,Forward,Turkey,172,,Fenerbahçe SK
+398,Arda Guler,Turkey,8,Forward,Turkey,175,,Real Madrid C. F.
+399,Deniz Daniel Gul,Turkey,9,Forward,Turkey,192,,FC Porto
+401,Kenan Yildiz,Turkey,11,Forward,Turkey,187,,Juventus FC
+407,Can İrfan Kahveci,Turkey,17,Forward,Turkey,180,,Kasımpa ş a SK
+409,Yunus Akgun,Turkey,19,Forward,Turkey,173,,Galatasaray SK
+411,Barı ş Alper Yilmaz,Turkey,21,Forward,Turkey,186,,Galatasaray SK
+414,Oguz Aydin,Turkey,24,Forward,Turkey,183,,Fenerbahçe SK
+416,Can Yılmaz Uzun,Turkey,26,Forward,Turkey,186,,Eintracht Frankfurt
+417,Manuel Peter Neuer,Germany,1,Goalkeeper,Germany,193,,FC Bayern München
+428,Oliver Baumann,Germany,12,Goalkeeper,Germany,187,,TSG Hoffenheim
+437,Alexander Nuebel,Germany,21,Goalkeeper,Germany,193,,VfB Stuttgart
+418,Antonio Ruediger,Germany,2,Defender,Germany,190,,Real Madrid C. F.
+419,Waldemar Anton,Germany,3,Defender,Germany,189,,Borussia Dortmund
+420,Jonathan Glao Tah,Germany,4,Defender,Germany,195,,FC Bayern München
+422,Joshua Walter Kimmich,Germany,6,Defender,Germany,177,,FC Bayern München
+431,Nico Cédric Schlotterbeck,Germany,15,Defender,Germany,191,,Borussia Dortmund
+434,Nathaniel Christopher Brown,Germany,18,Defender,Germany,176,,Eintracht Frankfurt
+438,David Raum,Germany,22,Defender,Germany,180,,RB Leipzig
+440,Malick Thiaw,Germany,24,Defender,Germany,194,,Newcastle United FC
+421,Aleksandar Pavlovic,Germany,5,Midfielder,Germany,188,,FC Bayern München
+424,Leon Christoph Goretzka,Germany,8,Midfielder,Germany,189,,FC Bayern München
+425,Jamie Jaleel Jeremy Leweling,Germany,9,Midfielder,Germany,185,,VfB Stuttgart
+426,Jamal Musiala,Germany,10,Midfielder,Germany,180,,FC Bayern München
+429,Pascal Alexander GROß Gross,Germany,13,Midfielder,Germany,181,,Brighton & Hove Albion FC
+432,Angelo Nicolas Stiller,Germany,16,Midfielder,Germany,183,,VfB Stuttgart
+433,Florian Richard Wirtz,Germany,17,Midfielder,Germany,176,,Liverpool FC
+435,Leroy Aziz Sane,Germany,19,Midfielder,Germany,183,,Galatasaray SK
+436,Nadiem Amiri,Germany,20,Midfielder,Germany,178,,1. FSV Mainz 05
+439,Felix Kalu Nmecha,Germany,23,Midfielder,Germany,190,,Borussia Dortmund
+441,Forzan Assan Ouedraogo,Germany,25,Midfielder,Germany,191,,RB Leipzig
+423,Kai Lukas Havertz,Germany,7,Forward,Germany,190,,Arsenal FC
+427,Nick Woltemade,Germany,11,Forward,Germany,198,,Newcastle United FC
+430,Maximilian Beier,Germany,14,Forward,Germany,185,,Borussia Dortmund
+442,Deniz Undav,Germany,26,Forward,Germany,179,,VfB Stuttgart
+443,Eloy Victor Room,Curacao,1,Goalkeeper,Curacao,190,,Miami FC
+467,Tyrick Jeremy Bodak,Curacao,2,Goalkeeper,Curacao,190,,SC Telstar
+468,Trevor Irving Doornbusch,Curacao,3,Goalkeeper,Curacao,188,,VVV Venlo
+444,Shurandy Ruggerio Sambo,Curacao,4,Defender,Curacao,174,,Sparta Rotterdam
+445,Juriën Godfried Juan Gaari,Curacao,5,Defender,Curacao,183,,Abha Club
+446,Róshón Felix Romar Jordan Van Eijma,Curacao,6,Defender,Curacao,186,,RKC Waalwijk
+447,Sherel Constancio Floranus,Curacao,7,Defender,Curacao,181,,PEC Zwolle
+460,Armando Maria Obispo,Curacao,8,Defender,Curacao,185,,PSV Eindhoven
+462,Joshua Benjamin Brenet,Curacao,9,Defender,Curacao,181,,Kayserispor
+465,Riechedly Guillermo Bazoer,Curacao,10,Defender,Curacao,184,,Konyaspor
+466,Deveron Lenny Fonville,Curacao,11,Defender,Curacao,188,,NEC Nijmegen
+448,Godfried Roemeratoe,Curacao,12,Midfielder,Curacao,178,,RKC Waalwijk
+449,Juninho Gracielo Bacuna,Curacao,13,Midfielder,Curacao,178,,FC Volendam
+450,Livano Shyron Liomar Comenencia,Curacao,14,Midfielder,Curacao,185,,FC Zürich
+452,Leandro Jones Johan Bacuna,Curacao,15,Midfielder,Curacao,180,,I ğ dır FK
+457,Jainel Archenir Martha,Curacao,16,Midfielder,Curacao,180,,Rotherham United FC
+463,Tahith Jose Girigorio Djorkaef Chong,Curacao,17,Midfielder,Curacao,185,,Shefield United FC
+464,Kevin Antonio Felida,Curacao,18,Midfielder,Curacao,174,,FC Den Bosch
+451,Jürgen Leonardo Locadia,Curacao,19,Forward,Curacao,193,,Miami FC
+453,Jeremy Cornelis Jacobus Antonisse,Curacao,20,Forward,Curacao,164,,AE Kifisia FC
+454,Juniffer Naigelino Hansen,Curacao,21,Forward,Curacao,176,,Middlesbrough FC
+455,Tyrese Yurvencey Noslin,Curacao,22,Forward,Curacao,182,,SC Telstar
+456,Kenji Joël Gorre,Curacao,23,Forward,Curacao,174,,Maccabi Haifa FC
+458,Jearl Erwin Margaritha,Curacao,24,Forward,Curacao,181,,SK Beveren
+459,Brandley Mack-Olien Kuwas,Curacao,25,Forward,Curacao,181,,FC Volendam
+461,Gervane Zjandric Adonnis Kastaneer,Curacao,26,Forward,Curacao,189,,Terengganu FC
+469,Yahia Fofana,Ivory Coast,1,Goalkeeper,Ivory Coast,194,,Çaykur Rizespor
+484,Mohamed Kone,Ivory Coast,16,Goalkeeper,Ivory Coast,186,,Sporting Charleroi
+491,Alban-Marc Lafont,Ivory Coast,23,Goalkeeper,Ivory Coast,196,,Panathinaikos FC
+470,Ousmane Diomande,Ivory Coast,2,Defender,Ivory Coast,190,,Sporting CP
+471,N'clomande Ghislain Konan,Ivory Coast,3,Defender,Ivory Coast,176,,Gil Vicente FC
+473,Wilfried Stephane Singo,Ivory Coast,5,Defender,Ivory Coast,182,,Galatasaray SK
+475,Odilon Dorgeless Kossounou,Ivory Coast,7,Defender,Ivory Coast,191,,Atalanta Bergamo
+481,Christopher Tea Domoraud Operi,Ivory Coast,13,Defender,Ivory Coast,183,,Ba ş ak ş ehir FK
+485,Guela Maho-Lewis Doue,Ivory Coast,17,Defender,Ivory Coast,187,,RC Strasbourg
+488,Emmanuel Elysee Djedje Agbadou,Ivory Coast,20,Defender,Ivory Coast,185,,Be ş ikta ş  JK
+489,Obite Evan Ndicka,Ivory Coast,21,Defender,Ivory Coast,192,,AS Roma
+472,Jean Michael Seri,Ivory Coast,4,Midfielder,Ivory Coast,168,,NK Maribor
+474,Seko Mohamed Fofana,Ivory Coast,6,Midfielder,Ivory Coast,185,,FC Porto
+476,Franck Yannick Kessie,Ivory Coast,8,Midfielder,Ivory Coast,183,,Al Ahli FC
+486,Ibrahim Sangare,Ivory Coast,18,Midfielder,Ivory Coast,191,,Nottingham Forest FC
+493,Parfait Guiagon,Ivory Coast,25,Midfielder,Ivory Coast,165,,Sporting Charleroi
+494,Christ Ravynel Inao Oulai,Ivory Coast,26,Midfielder,Ivory Coast,173,,Trabzonspor
+477,Ange-Yoan Laurent Bonny,Ivory Coast,9,Forward,Ivory Coast,189,,FC Internazionale Milano
+478,Simon Adingra,Ivory Coast,10,Forward,Ivory Coast,175,,AS Monaco
+479,Yan Diomande,Ivory Coast,11,Forward,Ivory Coast,180,,RB Leipzig
+480,Elye Delmas Wahi,Ivory Coast,12,Forward,Ivory Coast,181,,OGC Nice
+482,Oumar Diakite,Ivory Coast,14,Forward,Ivory Coast,182,,Cercle Brugge
+483,Amad Diallo,Ivory Coast,15,Forward,Ivory Coast,173,,Manchester United FC
+487,Nicolas Pepe,Ivory Coast,19,Forward,Ivory Coast,183,,Villarreal CF
+490,Evann Ludovic Vidjannagni Guessand,Ivory Coast,22,Forward,Ivory Coast,188,,Crystal Palace FC
+492,Bazoumana Toure,Ivory Coast,24,Forward,Ivory Coast,178,,TSG Hoffenheim
+495,Hernán Ismael Galindez,Ecuador,1,Goalkeeper,Ecuador,189,,CA Huracán
+506,Wellington Moisés Ramirez,Ecuador,12,Goalkeeper,Ecuador,185,,AE Kifisia FC
+516,Gonzalo Roberto Valle,Ecuador,22,Goalkeeper,Ecuador,186,,LDU Quito
+496,Félix Eduardo Torres,Ecuador,2,Defender,Ecuador,187,,SC Internacional
+497,Piero Martin Hincapie,Ecuador,3,Defender,Ecuador,183,,Arsenal FC
+498,Joel Leandro Ordonez,Ecuador,4,Defender,Ecuador,188,,Club Brugge
+500,Willian Joel Pacho,Ecuador,6,Defender,Ecuador,188,,Paris Saint-Germain
+501,Pervis Josue Estupinan,Ecuador,7,Defender,Ecuador,175,,AC Milan
+511,Ángelo Smit Preciado,Ecuador,17,Defender,Ecuador,174,,Atlético Mineiro
+519,Jackson Gabriel Porozo,Ecuador,25,Defender,Ecuador,192,,Club Tijuana
+520,Yaimar Abel Medina,Ecuador,26,Defender,Ecuador,173,,KRC Genk
+499,Jordy Jose Alcivar,Ecuador,5,Midfielder,Ecuador,168,,Independiente Del Valle
+502,Anthony Lenin Valencia,Ecuador,8,Midfielder,Ecuador,173,,Royal Antwerp FC
+504,Ray Kendry Paez,Ecuador,10,Midfielder,Ecuador,178,,CA River Plate
+508,Alan Steve Minda,Ecuador,14,Midfielder,Ecuador,174,,Atlético Mineiro
+509,Pedro Jeampierre Vite,Ecuador,15,Midfielder,Ecuador,172,,Pumas UNAM
+512,Denil Daniel Castillo,Ecuador,18,Midfielder,Ecuador,189,,FC Midtjylland
+515,Alan Steven Franco,Ecuador,21,Midfielder,Ecuador,175,,Atlético Mineiro
+517,Moisés Isaac Caicedo,Ecuador,23,Midfielder,Ecuador,178,,Chelsea FC
+503,John Yeboah,Ecuador,9,Forward,Ecuador,170,,Venezia FC
+505,Kevin Jose Rodriguez,Ecuador,11,Forward,Ecuador,190,,Royale Union Saint-Gilloise
+507,Enner Remberto Valencia,Ecuador,13,Forward,Ecuador,177,,CF Pachuca
+510,Jordy Josue Caicedo,Ecuador,16,Forward,Ecuador,186,,CA Huracán
+513,Gonzalo Jordy Plata,Ecuador,19,Forward,Ecuador,178,,CR Flamengo
+514,Nilson David Angulo,Ecuador,20,Forward,Ecuador,184,,Sunderland AFC
+518,Jeremy Alberto Arevalo,Ecuador,24,Forward,Ecuador,182,,VfB Stuttgart
+521,Bart Verbruggen,Netherlands,1,Goalkeeper,Netherlands,193,,Brighton & Hove Albion FC
+533,Robin Gerardus Petrus Roefs,Netherlands,13,Goalkeeper,Netherlands,193,,Sunderland AFC
+543,Mark Maria Hubertus Flekken,Netherlands,23,Goalkeeper,Netherlands,195,,Bayer 04 Leverkusen
+522,Lutsharel Emiliano Geertruida,Netherlands,2,Defender,Netherlands,185,,Sunderland AFC
+524,Virgil Van Dijk,Netherlands,4,Defender,Netherlands,195,,Liverpool FC
+525,Nathan Benjamin Ake,Netherlands,5,Defender,Netherlands,180,,Manchester City FC
+526,Paul Jan-Paul Van Hecke,Netherlands,6,Defender,Netherlands,189,,Brighton & Hove Albion FC
+532,Mats Henrik Berne Wieffer,Netherlands,12,Defender,Netherlands,189,,Brighton & Hove Albion FC
+535,Micky Van De Ven,Netherlands,15,Defender,Netherlands,193,,Tottenham Hotspur FC
+542,Denzel Justus Morris Dumfries,Netherlands,22,Defender,Netherlands,188,,FC Internazionale Milano
+545,Jorrel Evan Hato,Netherlands,25,Defender,Netherlands,182,,Chelsea FC
+523,Marten Elco De Roon,Netherlands,3,Midfielder,Netherlands,186,,Atalanta Bergamo
+527,Justin Dean Kluivert,Netherlands,7,Midfielder,Netherlands,173,,AFC Bournemouth
+528,Ryan Jiro Gravenberch,Netherlands,8,Midfielder,Netherlands,190,,Liverpool FC
+534,Tijjani Martinus Jan Reijnders,Netherlands,14,Midfielder,Netherlands,178,,Manchester City FC
+536,Guus Berend Til,Netherlands,16,Midfielder,Netherlands,188,,PSV Eindhoven
+540,Teun Koopmeiners,Netherlands,20,Midfielder,Netherlands,185,,Juventus FC
+541,Frenkie De Jong,Netherlands,21,Midfielder,Netherlands,181,,FC Barcelona
+546,Quinten Ryan Crispito Timber,Netherlands,26,Midfielder,Netherlands,176,,Olympique Marseille
+529,Wout François Maria Weghorst,Netherlands,9,Forward,Netherlands,197,,AFC Ajax
+530,Memphis Depay,Netherlands,10,Forward,Netherlands,178,,SC Corinthians
+531,Cody Mathès Gakpo,Netherlands,11,Forward,Netherlands,193,,Liverpool FC
+537,Noa Noëll Lang,Netherlands,17,Forward,Netherlands,176,,Galatasaray SK
+538,Donyell Malen,Netherlands,18,Forward,Netherlands,178,,AS Roma
+539,Brian Ebenezer Adjei Brobbey,Netherlands,19,Forward,Netherlands,181,,Sunderland AFC
+544,Crysencio Jilbert Sylverio Cir Summerville,Netherlands,24,Forward,Netherlands,172,,West Ham United FC
+547,Zion Suzuki,Japan,1,Goalkeeper,Japan,190,,Parma
+558,Keisuke Osako,Japan,2,Goalkeeper,Japan,188,,Sanfrecce Hiroshima
+569,Tomoki Hayakawa,Japan,3,Goalkeeper,Japan,187,,Kashima Antlers
+548,Yukinari Sugawara,Japan,4,Defender,Japan,179,,SV Werder Bremen
+549,Shogo Taniguchi,Japan,5,Defender,Japan,185,,Sint-Truiden VV
+550,Kou Itakura,Japan,6,Defender,Japan,188,,AFC Ajax
+551,Yuto Nagatomo,Japan,7,Defender,Japan,170,,FC Tokyo
+562,Tsuyoshi Watanabe,Japan,8,Defender,Japan,184,,Feyenoord Rotterdam
+566,Ayumu Seko,Japan,9,Defender,Japan,186,,Le Havre AC
+567,Hiroki Ito,Japan,10,Defender,Japan,188,,FC Bayern München
+568,Takehiro Tomiyasu,Japan,11,Defender,Japan,187,,AFC Ajax
+571,Junnosuke Suzuki,Japan,12,Defender,Japan,180,,FC København
+553,Ao Tanaka,Japan,13,Midfielder,Japan,180,,Leeds United FC
+554,Takefusa Kubo,Japan,14,Midfielder,Japan,173,,Real Sociedad
+556,Ritsu Doan,Japan,15,Midfielder,Japan,172,,Eintracht Frankfurt
+557,Daizen Maeda,Japan,16,Midfielder,Japan,173,,Celtic FC
+559,Keito Nakamura,Japan,17,Midfielder,Japan,180,,Stade Reims
+560,Junya Ito,Japan,18,Midfielder,Japan,177,,KRC Genk
+561,Daichi Kamada,Japan,19,Midfielder,Japan,180,,Crystal Palace FC
+563,Yuito Suzuki,Japan,20,Midfielder,Japan,175,,SC Freiburg
+570,Kaishu Sano,Japan,21,Midfielder,Japan,176,,1. FSV Mainz 05
+552,Shuto Machino,Japan,22,Forward,Japan,185,,Borussia Mönchengladbach
+555,Keisuke Goto,Japan,23,Forward,Japan,191,,Sint-Truiden VV
+564,Ayase Ueda,Japan,24,Forward,Japan,182,,Feyenoord Rotterdam
+565,Koki Ogawa,Japan,25,Forward,Japan,186,,NEC Nijmegen
+572,Kento Shiogai,Japan,26,Forward,Japan,180,,VfL Wolfsburg
+573,Jacob Mikael Widell Zetterstrom,Sweden,1,Goalkeeper,Sweden,197,,Derby County FC
+584,Tobias Viktor Johansson,Sweden,2,Goalkeeper,Sweden,187,,Stoke City FC
+595,Bo Kristoffer Nordfeldt,Sweden,3,Goalkeeper,Sweden,190,,AIK Stockholm
+574,Gustaf Johan Lagerbielke,Sweden,4,Defender,Sweden,193,,SC Braga
+575,Victor Jörgen Lindelof,Sweden,5,Defender,Sweden,187,,Aston Villa FC
+576,Isak Malcolm Kwaku Hien,Sweden,6,Defender,Sweden,191,,Atalanta Bergamo
+577,Gabriel Johan Gudmundsson,Sweden,7,Defender,Sweden,181,,Leeds United FC
+578,Herman Nils Johansson,Sweden,8,Defender,Sweden,190,,FC Dallas
+580,Daniel Jonathan Svensson,Sweden,9,Defender,Sweden,183,,Borussia Dortmund
+586,Hjalmar Ekdal,Sweden,10,Defender,Sweden,187,,Burnley FC
+587,Carl Anders Theodor Starfelt,Sweden,11,Defender,Sweden,185,,RC Celta Vigo
+592,Eric Anders Smith,Sweden,12,Defender,Sweden,192,,FC St. Pauli
+593,Alexander Olof Bernhardsson,Sweden,13,Defender,Sweden,184,,Holstein Kiel
+596,Elliot Karl Stroud,Sweden,14,Defender,Sweden,185,,Mjällby AIF
+579,Lucas Erik Holger Bergvall,Sweden,15,Midfielder,Sweden,187,,Tottenham Hotspur FC
+582,Erik Benjamin Nygren,Sweden,16,Midfielder,Sweden,187,,Celtic FC
+585,Ken Sema,Sweden,17,Midfielder,Sweden,180,,Pafos FC
+588,Jesper Kewe Karlstrom,Sweden,18,Midfielder,Sweden,182,,Udinese
+590,Yasin Ayari,Sweden,19,Midfielder,Sweden,172,,Brighton & Hove Albion FC
+591,Mattias Olof Svanberg,Sweden,20,Midfielder,Sweden,186,,VfL Wolfsburg
+594,Besfort Zeneli,Sweden,21,Midfielder,Sweden,187,,Royale Union Saint-Gilloise
+581,Alexander Isak,Sweden,22,Forward,Sweden,190,,Liverpool FC
+583,Anthony David Junior Elanga,Sweden,23,Forward,Sweden,178,,Newcastle United FC
+589,Viktor Einar Gyokeres,Sweden,24,Forward,Sweden,189,,Arsenal FC
+597,Håkan Gustaf Nilsson,Sweden,25,Forward,Sweden,197,,Club Brugge
+598,Taha Abdi Ali,Sweden,26,Forward,Sweden,174,,Malmö FF
+599,Abdelmouhib Chamakh,Tunisia,1,Goalkeeper,Tunisia,189,,Club Africain
+614,Aymen Dahmen,Tunisia,16,Goalkeeper,Tunisia,188,,CS Sfaxien
+620,Sabri Ben Hessen,Tunisia,22,Goalkeeper,Tunisia,189,,Étoile Du Sahel
+600,Ali Abdi,Tunisia,2,Defender,Tunisia,177,,OGC Nice
+601,Montassar Omar Talbi,Tunisia,3,Defender,Tunisia,190,,FC Lorient
+602,Omar Rekik,Tunisia,4,Defender,Tunisia,188,,NK Maribor
+603,Adam Arous,Tunisia,5,Defender,Tunisia,188,,Kasımpa ş a SK
+604,Dylan Daniel Mahmoud Bronn,Tunisia,6,Defender,Tunisia,186,,Servette FC
+610,Ahmed Mortadha Ben Ouanes,Tunisia,12,Defender,Tunisia,188,,Kasımpa ş a SK
+618,Yan Valery,Tunisia,20,Defender,Tunisia,181,,BSC Young Boys
+619,Mohamed Amine Ben Hmida,Tunisia,21,Defender,Tunisia,181,,Espérance De Tunisie
+621,Moutaz Neffati,Tunisia,23,Defender,Tunisia,182,,IFK Norrköping FK
+622,Raed Chikhaoui,Tunisia,24,Defender,Tunisia,191,,US Monastir
+608,Hannibal Mejbri,Tunisia,10,Midfielder,Tunisia,177,,Burnley FC
+609,Ismael Seifallah Gharbi,Tunisia,11,Midfielder,Tunisia,180,,FC Augsburg
+611,Rani Khedira,Tunisia,13,Midfielder,Tunisia,188,,1. FC Union Berlin
+612,Khalil Ayari,Tunisia,14,Midfielder,Tunisia,174,,Paris Saint-Germain
+613,Mohamed Hadj Mahmoud,Tunisia,15,Midfielder,Tunisia,179,,FC Lugano
+615,Ellyes Joris Skhiri,Tunisia,17,Midfielder,Tunisia,185,,Eintracht Frankfurt
+623,Anis Slimane,Tunisia,25,Midfielder,Tunisia,188,,Norwich City FC
+624,Sebastian Tounekti,Tunisia,26,Midfielder,Tunisia,182,,Celtic FC
+605,Mohamed Elyes Achouri,Tunisia,7,Forward,Tunisia,187,,FC København
+606,Elias Saad,Tunisia,8,Forward,Tunisia,185,,Hannover 96
+607,Hazem Mastouri,Tunisia,9,Forward,Tunisia,191,,FC Dynamo Makhachkala
+616,Rayan Elloumi,Tunisia,18,Forward,Tunisia,180,,Vancouver Whitecaps FC
+617,Firas Chaouat,Tunisia,19,Forward,Tunisia,185,,Club Africain
+625,Thibaut Nicolas Courtois,Belgium,1,Goalkeeper,Belgium,199,,Real Madrid C. F.
+636,Senne Lammens,Belgium,12,Goalkeeper,Belgium,193,,Manchester United FC
+637,Mike Louis Penders,Belgium,13,Goalkeeper,Belgium,200,,RC Strasbourg
+626,Zeno Koen Debast,Belgium,2,Defender,Belgium,189,,Sporting CP
+627,Arthur Nicolas Theate,Belgium,3,Defender,Belgium,185,,Eintracht Frankfurt
+628,Brandon Erik Mechele,Belgium,4,Defender,Belgium,190,,Club Brugge
+629,Maxim Peter De Cuyper,Belgium,5,Defender,Belgium,182,,Brighton & Hove Albion FC
+639,Thomas Andre Meunier,Belgium,15,Defender,Belgium,190,,Lille OSC
+640,Koni De Winter,Belgium,16,Defender,Belgium,191,,AC Milan
+642,Joaquin Ronny Seys,Belgium,18,Defender,Belgium,178,,Club Brugge
+645,Timothy Castagne,Belgium,21,Defender,Belgium,185,,Fulham FC
+649,Nathan Ngoy,Belgium,25,Defender,Belgium,183,,Lille OSC
+630,Axel Laurent Witsel,Belgium,6,Midfielder,Belgium,186,,Girona FC
+631,Kevin De Bruyne,Belgium,7,Midfielder,Belgium,181,,SSC Napoli
+632,Youri Marion Tielemans,Belgium,8,Midfielder,Belgium,176,,Aston Villa FC
+643,Diego Manuel Moreira,Belgium,19,Midfielder,Belgium,179,,RC Strasbourg
+644,Hans Vanaken,Belgium,20,Midfielder,Belgium,195,,Club Brugge
+646,Alexis Jesse Saelemaekers,Belgium,22,Midfielder,Belgium,180,,AC Milan
+647,Nicolas Thierry Raskin,Belgium,23,Midfielder,Belgium,178,,Rangers FC
+648,Amadou Ba Onana,Belgium,24,Midfielder,Belgium,192,,Aston Villa FC
+633,Romelu Lukaku,Belgium,9,Forward,Belgium,190,,SSC Napoli
+634,Leandro Trossard,Belgium,10,Forward,Belgium,172,,Arsenal FC
+635,Jeremy Baffour Doku,Belgium,11,Forward,Belgium,173,,Manchester City FC
+638,Dodi Lukebakio,Belgium,14,Forward,Belgium,184,,SL Benfica
+641,Charles Marc De Ketelaere,Belgium,17,Forward,Belgium,192,,Atalanta Bergamo
+650,Matias Fernandez-Pardo,Belgium,26,Forward,Belgium,188,,Lille OSC
+651,Elsayed Mohamed Elshenawy,Egypt,1,Goalkeeper,Egypt,191,,Al Ahly FC
+666,Mohamed Soliman Mahdy Soliman,Egypt,16,Goalkeeper,Egypt,189,,Zamalek SC
+673,Abdelaziz Mohame Mostafa,Egypt,26,Goalkeeper,Egypt,195,,Al Ahly FC
+676,Alaaeldin Soliman Mohamed Alaa,Egypt,26,Goalkeeper,Egypt,188,,El Gouna FC
+652,Ahmed Ibrahim Yasser,Egypt,20,Defender,Egypt,185,,Al Ahly FC
+653,Hany Gamal Mohamed Hany,Egypt,3,Defender,Egypt,175,,Al Ahly FC
+654,Abdelmegeed Abdelsalam Hossam Abdelmaguid,Egypt,4,Defender,Egypt,193,,Zamalek SC
+655,Abdelaziz Moustafa Ramy Rabia,Egypt,5,Defender,Egypt,183,,Al Ain FC
+656,Abdelmoneim Elsayed Mohamed,Egypt,9,Defender,Egypt,184,,OGC Nice
+663,Mohamed Aboelfetouh Ahmed Fatouh,Egypt,6,Defender,Egypt,177,,Zamalek SC
+665,Hafez Ramadan Karim Hafez,Egypt,15,Defender,Egypt,174,,Pyramids FC
+674,Abdelghaffar Abdel Tarek Alaa,Egypt,24,Defender,Egypt,178,,ZED FC
+658,Ashour Metwaly Emam,Egypt,13,Midfielder,Egypt,180,,Al Ahly FC
+661,Mohamed Zaky Mostafa Zico,Egypt,11,Midfielder,Egypt,179,,Pyramids FC
+664,Fathy Abdelhalim Hamdy Fathy,Egypt,14,Midfielder,Egypt,183,,Al Wakrah SC
+667,Mostafa Ahmed Mohanad Lashin,Egypt,17,Midfielder,Egypt,186,,Pyramids FC
+668,Aly Elmahdy Nabil,Egypt,17,Midfielder,Egypt,179,,Al Najmah SC
+669,Attia Fahim Marawan Attia,Egypt,19,Midfielder,Egypt,176,,Al Ahly FC
+671,Saber Abdelmohsen Mahmoud,Egypt,6,Midfielder,Egypt,170,,ZED FC
+657,Ahmed Ibrahim Trezeguet,Egypt,20,Forward,Egypt,181,,Al Ahly FC
+659,Mohamed Abdelkarim Hamza,Egypt,6,Forward,Egypt,182,,FC Barcelona
+660,Hamed Mahrous Mohamed Salah,Egypt,10,Forward,Egypt,175,,Liverpool FC
+662,Yousry Fouad Haissem Hassan,Egypt,12,Forward,Egypt,175,,Real Oviedo
+670,Adel Aly Mohamed Ibrahim,Egypt,10,Forward,Egypt,178,,FC Nordsjælland
+672,Mohamed Abdelsalam Omar,Egypt,6,Forward,Egypt,180,,Manchester City FC
+675,Mostafa Mohamed Zizo,Egypt,11,Forward,Egypt,175,,Al Ahly FC
+677,Ali Reza Beiranvand,Iran,1,Goalkeeper,Iran,195,,Tractor Sazi Tabriz FC
+688,Seyedpayam Niazmand,Iran,12,Goalkeeper,Iran,193,,Persepolis FC
+698,Seyedhossein Hosseini,Iran,22,Goalkeeper,Iran,189,,Sepahan SC
+678,Saleh Hardani,Iran,2,Defender,Iran,176,,Esteghlal Tehran FC
+679,Ehsan Hajisafi,Iran,3,Defender,Iran,178,,Sepahan SC
+680,Shojae Khalilzadeh,Iran,4,Defender,Iran,183,,Tractor Sazi Tabriz FC
+681,Milad Mohammadi,Iran,5,Defender,Iran,175,,Persepolis FC
+689,Mohammadhossein Kanani,Iran,21,Defender,Iran,188,,Persepolis FC
+693,Arya Yousefi,Iran,17,Defender,Iran,181,,Sepahan SC
+695,Ali Nemati,Iran,19,Defender,Iran,182,,Foolad Khuzestan FC
+699,Ramin Rezaeian,Iran,23,Defender,Iran,184,,Foolad Khuzestan FC
+701,Danial Iri,Iran,25,Defender,Iran,182,,Malavan Anzali FC
+682,Saeid Ezatolahi,Iran,6,Midfielder,Iran,189,,Shabab Al Ahli Club
+683,Alireza Jahanbakhsh,Iran,7,Midfielder,Iran,180,,FCV Dender EH
+684,Mohammad Mohebbi,Iran,8,Midfielder,Iran,187,,FC Rostov
+690,Seyed Saman Ghoddos,Iran,14,Midfielder,Iran,176,,Al Ittihad Kalba SCC
+691,Roozbeh Cheshmi,Iran,15,Midfielder,Iran,192,,Esteghlal Tehran FC
+692,Mahdi Torabi,Iran,16,Midfielder,Iran,185,,Tractor Sazi Tabriz FC
+697,Mohammad Ghorbani,Iran,21,Midfielder,Iran,190,,Al Wahda SC
+702,Amirmohammad Razaghinia,Iran,26,Midfielder,Iran,187,,Esteghlal Tehran FC
+685,Mehdi Taremi,Iran,9,Forward,Iran,187,,Olympiacos FC
+686,Mehdi Ghayedi,Iran,10,Forward,Iran,166,,Al Nasr SC
+687,Ali Alipour,Iran,11,Forward,Iran,181,,Persepolis FC
+694,Amirhossein Hosseinzadeh,Iran,18,Forward,Iran,178,,Tractor Sazi Tabriz FC
+696,Shahriyar Moghanloo,Iran,20,Forward,Iran,189,,Al Ittihad Kalba SCC
+700,Dennis Dargahi,Iran,24,Forward,Iran,182,,Standard Liège
+703,Maxime Teremoana Crocombe,New Zealand,1,Goalkeeper,New Zealand,190,,Millwall FC
+714,Alexander Noah Paulsen,New Zealand,2,Goalkeeper,New Zealand,193,,Lechia Gda ń sk
+724,Michael Cornelis Woud,New Zealand,3,Goalkeeper,New Zealand,196,,Auckland FC
+704,Timothy John Payne,New Zealand,4,Defender,New Zealand,179,,Wellington Phoenix FC
+705,Francis De Vries,New Zealand,5,Defender,New Zealand,181,,Auckland FC
+706,Tyler Grant Bindon,New Zealand,6,Defender,New Zealand,190,,Shefield United FC
+707,Michael Joseph Boxall,New Zealand,7,Defender,New Zealand,191,,Minnesota United FC
+715,Liberato Gianpaolo Cacace,New Zealand,8,Defender,New Zealand,182,,Wrexham AFC
+717,Nando Zen Pijnaker,New Zealand,9,Defender,New Zealand,185,,Auckland FC
+718,Finn Surman,New Zealand,10,Defender,New Zealand,190,,Portland Timbers
+726,Callan Rennie Elliot,New Zealand,11,Defender,New Zealand,177,,Auckland FC
+728,Thomas Jefferson Smith,New Zealand,12,Defender,New Zealand,188,,Braintree Town FC
+708,Joe Zen Robert Bell,New Zealand,13,Midfielder,New Zealand,182,,Viking Stavanger
+710,Marko Seufatu Nikola Stamenic,New Zealand,14,Midfielder,New Zealand,188,,Swansea City AFC
+712,Sarpreet Singh,New Zealand,15,Midfielder,New Zealand,180,,Wellington Phoenix FC
+713,Elijah Henry Just,New Zealand,16,Midfielder,New Zealand,176,,Motherwell FC
+716,Alex Arthur Rufer,New Zealand,17,Midfielder,New Zealand,180,,Wellington Phoenix FC
+721,Benjamin Craig Old,New Zealand,18,Midfielder,New Zealand,173,,AS Saint-Etienne
+722,Mc,New Zealand,19,Midfielder,New Zealand,180,,Silkeborg IF
+725,Ryan Jared Thomas,New Zealand,20,Midfielder,New Zealand,176,,PEC Zwolle
+727,Lachlan Ryan Bayliss,New Zealand,21,Midfielder,New Zealand,178,,Newcastle United Jets FC
+709,Logan Tipene Rogerson,New Zealand,22,Forward,New Zealand,182,,Auckland FC
+711,Christopher Grant Wood,New Zealand,23,Forward,New Zealand,191,,Nottingham Forest FC
+719,Kosta Barbarouses,New Zealand,24,Forward,New Zealand,171,,WS Wanderers FC
+720,Benjamin Peter Waine,New Zealand,25,Forward,New Zealand,185,,Port Vale FC
+723,Jesse Carmichael Randall,New Zealand,26,Forward,New Zealand,176,,Auckland FC
+729,David Raya,Spain,1,Goalkeeper,Spain,186,,Arsenal FC
+741,Joan Garcia,Spain,13,Goalkeeper,Spain,194,,FC Barcelona
+751,Unai Simon,Spain,23,Goalkeeper,Spain,190,,Athletic Club
+730,Marc Pubill,Spain,2,Defender,Spain,191,,Atlético De Madrid
+731,Alejandro Grimaldo,Spain,3,Defender,Spain,171,,Bayer 04 Leverkusen
+732,Eric Garcia,Spain,4,Defender,Spain,183,,FC Barcelona
+733,Marcos Llorente,Spain,5,Defender,Spain,183,,Atlético De Madrid
+740,Pedro Antonio Porro,Spain,12,Defender,Spain,173,,Tottenham Hotspur FC
+742,Aymeric Laporte,Spain,14,Defender,Spain,191,,Athletic Club
+750,Pau Cubarsi,Spain,22,Defender,Spain,183,,FC Barcelona
+752,Marc Cucurella,Spain,24,Defender,Spain,173,,Chelsea FC
+734,Mikel Merino,Spain,6,Midfielder,Spain,188,,Arsenal FC
+736,Fabian Ruiz,Spain,8,Midfielder,Spain,188,,Paris Saint-Germain
+737,Pablo Gavi,Spain,9,Midfielder,Spain,173,,FC Barcelona
+743,Alejandro Baena,Spain,15,Midfielder,Spain,172,,Atlético De Madrid
+744,Rodrigo Rodri,Spain,16,Midfielder,Spain,190,,Manchester City FC
+746,Martin Zubimendi,Spain,18,Midfielder,Spain,181,,Arsenal FC
+748,Pedro Pedri,Spain,12,Midfielder,Spain,174,,FC Barcelona
+735,Ferran Torres,Spain,7,Forward,Spain,183,,FC Barcelona
+738,Daniel Olmo,Spain,10,Forward,Spain,179,,FC Barcelona
+739,Yeremy Jesús Pino,Spain,11,Forward,Spain,174,,Crystal Palace FC
+745,Nicholas Williams,Spain,17,Forward,Spain,181,,Athletic Club
+747,Lamine Yamal,Spain,19,Forward,Spain,183,,FC Barcelona
+749,Mikel Oyarzabal,Spain,21,Forward,Spain,181,,Real Sociedad
+753,Victor Munoz,Spain,25,Forward,Spain,173,,CA Osasuna
+754,Borja Iglesias,Spain,26,Forward,Spain,187,,RC Celta Vigo
+755,José Vozinha,Cape Verde,1,Goalkeeper,Cape Verde,189,,GD Chaves
+766,Salomão Marcio,Cape Verde,2,Goalkeeper,Cape Verde,186,,PFC Montana
+777,Joaquim Cj Dos Santos,Cape Verde,3,Goalkeeper,Cape Verde,189,,San Diego FC
+756,Ianique Stopira,Cape Verde,4,Defender,Cape Verde,178,,SCU Torreense
+757,Alberto Diney,Cape Verde,5,Defender,Cape Verde,185,,Al Bataeh Club
+758,Carlos Pico Lopes,Cape Verde,6,Defender,Cape Verde,186,,Shamrock Rovers FC
+759,Evans Logan Costa,Cape Verde,7,Defender,Cape Verde,190,,Villarreal CF
+767,CABRALSidny Sidny Lopes,Cape Verde,8,Defender,Cape Verde,176,,SL Benfica
+776,MOREIRASteven Steven,Cape Verde,9,Defender,Cape Verde,178,,Columbus Crew
+778,Fabricio Wagner Pina,Cape Verde,10,Defender,Cape Verde,180,,Trabzonspor
+779,PIRESKelvin Kelvin,Cape Verde,11,Defender,Cape Verde,193,,SJK
+760,Lenini Kevin Pina,Cape Verde,12,Midfielder,Cape Verde,177,,FC Krasnodar
+761,Eduardo Jovane,Cape Verde,13,Midfielder,Cape Verde,174,,CF Estrela Da Amadora
+762,Paulo Joao Paulo,Cape Verde,14,Midfielder,Cape Verde,180,,FC FCSB
+764,Gregory Jamiro Monteiro,Cape Verde,15,Midfielder,Cape Verde,175,,PEC Zwolle
+765,RODRIGUESGarry Garry,Cape Verde,16,Midfielder,Cape Verde,173,,Apollon Limassol
+768,Deroy Duarte,Cape Verde,17,Midfielder,Cape Verde,177,,PFC Ludogorets Razgrad
+769,Michael Laros Duarte,Cape Verde,18,Midfielder,Cape Verde,180,,Puskás Akadémia FC
+770,SEMEDOJair Yannick,Cape Verde,19,Midfielder,Cape Verde,176,,SC Farense
+771,Johnson Willy,Cape Verde,20,Midfielder,Cape Verde,185,,AC Omonia
+772,Emanuel Telmo,Cape Verde,21,Midfielder,Cape Verde,180,,Vitória SC
+775,Miguel Nuno Da Costa,Cape Verde,22,Midfielder,Cape Verde,182,,Ba ş ak ş ehir FK
+780,Sandro Helio Varela,Cape Verde,23,Midfielder,Cape Verde,176,,Maccabi Tel-Aviv FC
+763,BENCHIMOLGilson Gilson,Cape Verde,24,Forward,Cape Verde,187,,FC Akron Tolyatti
+773,Dailon Livramento,Cape Verde,25,Forward,Cape Verde,185,,Casa Pia AC
+774,Isaac Ryan,Cape Verde,26,Forward,Cape Verde,178,,I ğ dır FK
+781,Dhahi Nawaf Alaqidi,Saudi Arabia,1,Goalkeeper,Saudi Arabia,186,,Al Nassr FC
+801,Khalil Mohammed Alowais,Saudi Arabia,21,Goalkeeper,Saudi Arabia,185,,Al Ula Saudi FC
+802,Ali Ahmed,Saudi Arabia,3,Goalkeeper,Saudi Arabia,178,,Al Qadsiah FC
+782,Hassan Ali Majrashi,Saudi Arabia,2,Defender,Saudi Arabia,169,,Al Ahli FC
+783,Mohammed Ali Lajami,Saudi Arabia,21,Defender,Saudi Arabia,177,,Al Hilal SC
+784,Ali Abdulelah Alamri,Saudi Arabia,4,Defender,Saudi Arabia,185,,Al Nassr FC
+785,Mohammed Hassan Altambakti,Saudi Arabia,5,Defender,Saudi Arabia,183,,Al Hilal SC
+792,Abdullah Saud Abdulhamid,Saudi Arabia,12,Defender,Saudi Arabia,172,,RC Lens
+793,Meshari Nawaf Bu Washl,Saudi Arabia,13,Defender,Saudi Arabia,173,,Al Nassr FC
+794,Kadish Hassan,Saudi Arabia,10,Defender,Saudi Arabia,179,,Al Ittihad
+804,Saad Moteb Alharbi,Saudi Arabia,24,Defender,Saudi Arabia,177,,Al Hilal SC
+805,Abdullatif Jehad Thikri,Saudi Arabia,25,Defender,Saudi Arabia,184,,Al Qadsiah FC
+806,Waheeb Mohammed Abu Alshamat,Saudi Arabia,26,Defender,Saudi Arabia,170,,Al Qadsiah FC
+786,Essa Nasser Aldawsari,Saudi Arabia,6,Midfielder,Saudi Arabia,178,,Al Hilal SC
+787,Fahad Musab Aljuwayr,Saudi Arabia,7,Midfielder,Saudi Arabia,175,,Al Qadsiah FC
+795,Mohammed Abdullah Alkhaibari,Saudi Arabia,15,Midfielder,Saudi Arabia,175,,Al Nassr FC
+796,Mubarak Ziyad Aljohani,Saudi Arabia,16,Midfielder,Saudi Arabia,180,,Al Ahli FC
+798,Mohsen Ala Alhajji,Saudi Arabia,18,Midfielder,Saudi Arabia,178,,Neom SC
+803,Ibrahim Mohamed,Saudi Arabia,23,Midfielder,Saudi Arabia,191,,Al Hilal SC
+788,Yahya Aiman Yahya,Saudi Arabia,8,Forward,Saudi Arabia,173,,Al Nassr FC
+789,Tariq Feras,Saudi Arabia,21,Forward,Saudi Arabia,185,,Al Ahli FC
+790,Mohammed Salem Aldawsari,Saudi Arabia,10,Forward,Saudi Arabia,173,,Al Hilal SC
+791,Khalid Saleh,Saudi Arabia,17,Forward,Saudi Arabia,184,,Al Ittihad
+797,Essa Khalid Alghannam,Saudi Arabia,17,Forward,Saudi Arabia,171,,Al Ettifaq FC
+799,Abdulrahman Abdullah Alhamddan,Saudi Arabia,19,Forward,Saudi Arabia,186,,Al Nassr FC
+800,Ahmed Sultan Mandash,Saudi Arabia,20,Forward,Saudi Arabia,172,,Al Hilal SC
+807,Sergio Ramón Rochet,Uruguay,1,Goalkeeper,Uruguay,189,,SC Internacional
+818,Santiago Andres Mele,Uruguay,12,Goalkeeper,Uruguay,185,,CF Monterrey
+829,Nestor Fernando Muslera,Uruguay,23,Goalkeeper,Uruguay,190,,Estudiantes LP
+808,José María Gimenez,Uruguay,2,Defender,Uruguay,186,,Atlético De Madrid
+809,Sebastián Enzo Caceres,Uruguay,3,Defender,Uruguay,180,,Club América
+810,Ronald Federico Araujo,Uruguay,4,Defender,Uruguay,185,,FC Barcelona
+819,Guillermo Varela,Uruguay,13,Defender,Uruguay,174,,CR Flamengo
+822,Mathías Olivera,Uruguay,16,Defender,Uruguay,174,,SSC Napoli
+823,Matías Nicolas Vina,Uruguay,17,Defender,Uruguay,180,,CA River Plate
+830,Santiago Ignacio Bueno,Uruguay,24,Defender,Uruguay,191,,Wolverhampton Wanderers FC
+811,Manuel Ugarte,Uruguay,5,Midfielder,Uruguay,182,,Manchester United FC
+812,Rodrigo Bentancur,Uruguay,6,Midfielder,Uruguay,187,,Tottenham Hotspur FC
+813,Diego Nicolás De La Cruz,Uruguay,7,Midfielder,Uruguay,167,,CR Flamengo
+814,Federico Santiago Valverde,Uruguay,8,Midfielder,Uruguay,182,,Real Madrid C. F.
+816,Giorgian Daniel De Arrascaeta,Uruguay,10,Midfielder,Uruguay,177,,CR Flamengo
+820,Agustin Canobbio,Uruguay,14,Midfielder,Uruguay,176,,Fluminense FC
+821,Emiliano Martinez,Uruguay,15,Midfielder,Uruguay,184,,SE Palmeiras
+826,Maximiliano Javier Araujo,Uruguay,20,Midfielder,Uruguay,176,,Sporting CP
+828,Joaquin Piquerez,Uruguay,22,Midfielder,Uruguay,185,,SE Palmeiras
+831,Juan Manuel Sanabria,Uruguay,25,Midfielder,Uruguay,170,,Real Salt Lake
+832,Radrigo Zalazar,Uruguay,26,Midfielder,Uruguay,175,,SC Braga
+815,Darwin Gabriel Nunez,Uruguay,9,Forward,Uruguay,185,,Al Hilal SC
+817,Facundo Pellistri,Uruguay,11,Forward,Uruguay,174,,Panathinaikos FC
+824,Paul Brian Rodriguez,Uruguay,18,Forward,Uruguay,175,,Club América
+825,Rodrigo Sebastian Aguirre,Uruguay,19,Forward,Uruguay,182,,Tigres UANL
+827,Federico Sebastian Vinas,Uruguay,21,Forward,Uruguay,181,,Real Oviedo
+833,Brice Lauriche Samba,France,1,Goalkeeper,France,187,,Stade Rennais FC
+848,Mike Peterson Maignan,France,2,Goalkeeper,France,191,,AC Milan
+855,Robin François Philippe Risser,France,3,Goalkeeper,France,193,,RC Lens
+834,Malo Arthur Gusto,France,4,Defender,France,179,,Chelsea FC
+835,Lucas Digne,France,5,Defender,France,178,,Aston Villa FC
+836,Dayotchanculle Oswald Upamecano,France,6,Defender,France,186,,FC Bayern München
+837,Jules Olivier Kounde,France,7,Defender,France,178,,FC Barcelona
+847,Ibrahima Konate,France,8,Defender,France,194,,Liverpool FC
+849,William Alain André Gabriel Saliba,France,9,Defender,France,192,,Arsenal FC
+851,Théo Bernard François Hernandez,France,10,Defender,France,184,,Al Hilal SC
+853,Lucas Francois Bernard Hernandez,France,11,Defender,France,184,,Paris Saint-Germain
+858,Maxence Guy Lacroix,France,12,Defender,France,192,,Crystal Palace FC
+838,Emmanuel Boris Kone,France,13,Midfielder,France,185,,AS Roma
+840,Aurélien Djani Tchouameni,France,14,Midfielder,France,188,,Real Madrid C. F.
+845,N'golo Kante,France,15,Midfielder,France,171,,Fenerbahçe SK
+846,Adrien Thibault Marie Rabiot,France,16,Midfielder,France,191,,AC Milan
+850,Warren Marie Jean-Pierre Zaire-Emery,France,17,Midfielder,France,176,,Paris Saint-Germain
+856,Mathis Rayan Cherki,France,18,Midfielder,France,180,,Manchester City FC
+857,Maghnes Akliouche,France,19,Midfielder,France,183,,AS Monaco
+839,Masour Ousmane Dembele,France,20,Forward,France,179,,Paris Saint-Germain
+841,Marcus Lilian Thuram,France,21,Forward,France,192,,FC Internazionale Milano
+842,Kylian Mbappe,France,22,Forward,France,180,,Real Madrid C. F.
+843,Michael Akpovie Olise,France,23,Forward,France,184,,FC Bayern München
+844,Bradley Jean-Manuel Essolisa Barcola,France,24,Forward,France,187,,Paris Saint-Germain
+852,Désiré Nonka-Maho Doue,France,25,Forward,France,182,,Paris Saint-Germain
+854,Jean-Philippe Mateta,France,26,Forward,France,192,,Crystal Palace FC
+859,Yehvann Djibril Victor Diouf,Senegal,1,Goalkeeper,Senegal,188,,OGC Nice
+874,Edouard Osoque Mendy,Senegal,16,Goalkeeper,Senegal,194,,Al Ahli FC
+881,Mory Diaw,Senegal,23,Goalkeeper,Senegal,197,,Le Havre AC
+860,Mamadou Sarr,Senegal,2,Defender,Senegal,194,,Chelsea FC
+861,Kalidou Koulibaly,Senegal,3,Defender,Senegal,186,,Al Hilal SC
+862,Abdoulaye Seck,Senegal,4,Defender,Senegal,192,,Maccabi Haifa FC
+872,Ismail Joshua Jakobs,Senegal,14,Defender,Senegal,184,,Galatasaray SK
+873,Krepin Diatta,Senegal,15,Defender,Senegal,173,,AS Monaco
+877,Moussa Niakhate,Senegal,19,Defender,Senegal,190,,Olympique Lyonnais
+882,Antoine Alpha Mendy,Senegal,24,Defender,Senegal,187,,OGC Nice
+883,El Hadji Malick Diouf,Senegal,25,Defender,Senegal,177,,West Ham United FC
+863,Idrissa Gana Gueye,Senegal,5,Midfielder,Senegal,174,,Everton FC
+864,Ismaila Pathe Ciss,Senegal,6,Midfielder,Senegal,186,,Rayo Vallecano
+866,Lamine Camara,Senegal,8,Midfielder,Senegal,174,,AS Monaco
+875,Pape Matar Sarr,Senegal,17,Midfielder,Senegal,185,,Tottenham Hotspur FC
+879,Habib Mbacke Diarra,Senegal,21,Midfielder,Senegal,178,,Sunderland AFC
+880,Bara Sapoko Ndiaye,Senegal,22,Midfielder,Senegal,180,,FC Bayern München
+884,Pape Alassane Gueye,Senegal,26,Midfielder,Senegal,189,,Villarreal CF
+865,Assane Diao,Senegal,7,Forward,Senegal,185,,Como
+867,Ahmadou Bamba Mbacke Dieng,Senegal,9,Forward,Senegal,178,,FC Lorient
+868,Sadio Mane,Senegal,10,Forward,Senegal,175,,Al Nassr FC
+869,Nicolas Jackson,Senegal,11,Forward,Senegal,187,,FC Bayern München
+870,Pape Cherif Ndiaye,Senegal,12,Forward,Senegal,190,,Samsunspor
+871,Iliman Cheikh Baroy Ndiaye,Senegal,13,Forward,Senegal,180,,Everton FC
+876,Ismaila Sarr,Senegal,18,Forward,Senegal,185,,Crystal Palace FC
+878,Ibrahim Mbaye,Senegal,20,Forward,Senegal,175,,Paris Saint-Germain
+885,Talib Raheem Fahad Talib,Iraq,1,Goalkeeper,Iraq,192,,Al Talaba SC
+896,Hasan Hachim Jalal Hassan,Iraq,2,Goalkeeper,Iraq,188,,Al Zawra'a SC
+906,Basil Fadhil Ahmed,Iraq,3,Goalkeeper,Iraq,184,,Al Shorta SC
+886,Ghareeb Solaka Rebin Sulaka,Iraq,4,Defender,Iraq,193,,Port FC
+887,Haydar Hussein,Iraq,5,Defender,Iraq,182,,Pogo ń  Szczecin
+888,Tahseen Abd Zaid,Iraq,6,Defender,Iraq,187,,Pakhtakor Tashkent FK
+889,Hashim Rahman Akam Hashim,Iraq,7,Defender,Iraq,184,,Al Zawra'a SC
+890,Younus Hashim Munaf Younus,Iraq,8,Defender,Iraq,184,,Al Shorta SC
+899,Hasan Maknazi Ahmed Maknazi,Iraq,9,Defender,Iraq,183,,Al Karma SC
+907,Ghazi Salih Merchas,Iraq,10,Defender,Iraq,173,,FC Viktoria Plze ň
+909,Saadoon Abbood Mustafa,Iraq,11,Defender,Iraq,181,,Al Shorta SC
+910,Dhia Jirjis Frans,Iraq,12,Defender,Iraq,182,,Persib Bandung
+891,Wali Faeq Youssef Amyn,Iraq,13,Midfielder,Iraq,172,,AEK Larnaca FC
+892,Bayesh Kamil Ibrahim Bayesh,Iraq,14,Midfielder,Iraq,180,,Al Dhafra SCC
+898,Aamar Iqbal Zidane,Iraq,15,Midfielder,Iraq,183,,FC Utrecht
+900,Fouad Aboud Amir Alammari,Iraq,16,Midfielder,Iraq,180,,KS Cracovia
+903,Yakob William Kevin Yakob,Iraq,17,Midfielder,Iraq,180,,Aarhus GF
+904,Hazar Anwar Aimar,Iraq,18,Midfielder,Iraq,180,,Sarpsborg 08 FF
+908,Ismael Khaleel Zaid Ismael,Iraq,19,Midfielder,Iraq,185,,Al Talaba SC
+893,Ibrahim Karim Ali Alhamadi,Iraq,20,Forward,Iraq,187,,Luton Town FC
+894,Ali Kadhim Mohanad Ali,Iraq,21,Forward,Iraq,183,,Dibba FC
+895,Ihab Ahmed,Iraq,22,Forward,Iraq,183,,Nashville SC
+897,Yousif Hashim Ali Yousif,Iraq,23,Forward,Iraq,180,,Al Talaba SC
+901,Jasim Elaibi Ali Jasim,Iraq,24,Forward,Iraq,178,,Al Najmah SC
+902,Hussein Ghadhban Aymen,Iraq,25,Forward,Iraq,190,,Al Karma SC
+905,Jabbar Hussein Marko Farji,Iraq,26,Forward,Iraq,185,,Venezia FC
+911,Ørjan Haskjold Nyland,Norway,1,Goalkeeper,Norway,192,,Sevilla FC
+922,Sander Tangvik,Norway,2,Goalkeeper,Norway,193,,Hamburger SV
+923,Egil Selvik,Norway,3,Goalkeeper,Norway,187,,Watford FC
+913,Kristoffer Vassbakk Köpp Ajer,Norway,4,Defender,Norway,198,,Brentford FC
+914,Leo Skiri Ostigard,Norway,5,Defender,Norway,183,,Genoa CFC
+915,David Møller Moller Wolfe,Norway,6,Defender,Norway,185,,Wolverhampton Wanderers FC
+925,Fredrik André Bjorkan,Norway,7,Defender,Norway,180,,FK Bodø/Glimt
+926,Marcus Holmgren Pedersen,Norway,8,Defender,Norway,184,,Torino FC
+927,Torbjørn Lysaker Heggem,Norway,9,Defender,Norway,192,,Bologna FC
+934,Sondre Klingen Langas,Norway,10,Defender,Norway,190,,Derby County FC
+935,Henrik Sælebakke Falchener,Norway,11,Defender,Norway,194,,Viking Stavanger
+912,Morten Thorsby,Norway,12,Midfielder,Norway,188,,US Cremonese
+916,Patrick Berg,Norway,13,Midfielder,Norway,178,,FK Bodø/Glimt
+918,Sander Gard Bolin Berge,Norway,14,Midfielder,Norway,195,,Fulham FC
+920,Martín Odegaard,Norway,15,Midfielder,Norway,178,,Arsenal FC
+924,Fredrik Aursnes,Norway,16,Midfielder,Norway,181,,SL Benfica
+928,Kristian Thorstvedt,Norway,17,Midfielder,Norway,189,,US Sassuolo
+929,Thelonious Gerard Aasgaard,Norway,18,Midfielder,Norway,188,,Rangers FC
+931,Andreas Rædergård Schjelderup,Norway,19,Midfielder,Norway,177,,SL Benfica
+932,Oscar Bobb,Norway,20,Midfielder,Norway,177,,Fulham FC
+933,Jens Petter Hauge,Norway,21,Midfielder,Norway,184,,FK Bodø/Glimt
+917,Alexander Sorloth,Norway,22,Forward,Norway,196,,Atlético De Madrid
+919,Erling Braut Haaland,Norway,23,Forward,Norway,195,,Manchester City FC
+921,Jørgen Strand Larsen,Norway,24,Forward,Norway,193,,Crystal Palace FC
+930,Antonio Eromonsele Nordby Nusa,Norway,25,Forward,Norway,183,,RB Leipzig
+936,Julian Ryerson,Norway,26,Forward,Norway,186,,Borussia Dortmund
+937,Juan Agustín Musso,Argentina,1,Goalkeeper,Argentina,193,,Atlético De Madrid
+948,Geronimo Rulli,Argentina,2,Goalkeeper,Argentina,189,,Olympique Marseille
+959,Damián Emiliano Martinez,Argentina,3,Goalkeeper,Argentina,195,,Aston Villa FC
+938,Marcos Nicolás Senesi,Argentina,4,Defender,Argentina,185,,AFC Bournemouth
+939,Nicolás Alejandro Tagliafico,Argentina,5,Defender,Argentina,172,,Olympique Lyonnais
+940,Gonzalo Ariel Montiel,Argentina,6,Defender,Argentina,175,,CA River Plate
+942,Lisandro Martinez,Argentina,7,Defender,Argentina,175,,Manchester United FC
+949,Cristian Gabriel Romero,Argentina,8,Defender,Argentina,185,,Tottenham Hotspur FC
+955,Nicolas Hernan Gonzalo Otamendi,Argentina,9,Defender,Argentina,182,,SL Benfica
+961,Facundo Axel Medina,Argentina,10,Defender,Argentina,184,,Olympique Marseille
+962,Nahuel Molina,Argentina,11,Defender,Argentina,179,,Atlético De Madrid
+941,Leandro Daniel Paredes,Argentina,12,Midfielder,Argentina,182,,CA Boca Juniors
+943,Rodrigo Javier De Paul,Argentina,13,Midfielder,Argentina,178,,Inter Miami CF
+944,Valentin Barco,Argentina,14,Midfielder,Argentina,172,,RC Strasbourg
+947,Giovani Lo Celso,Argentina,15,Midfielder,Argentina,177,,Real Betis
+950,Exequiel Alejandro Palacios,Argentina,16,Midfielder,Argentina,177,,Bayer 04 Leverkusen
+951,Nicolas Ivan Gonzalez,Argentina,17,Midfielder,Argentina,180,,Atlético De Madrid
+956,Alexis Mac Allister,Argentina,18,Midfielder,Argentina,176,,Liverpool FC
+960,Enzo Jeremías Fernandez,Argentina,19,Midfielder,Argentina,178,,Chelsea FC
+945,Julián Alvarez,Argentina,20,Forward,Argentina,170,,Atlético De Madrid
+946,Lionel Andrés Messi,Argentina,21,Forward,Argentina,170,,Inter Miami CF
+952,Thiago Ezequiel Almada,Argentina,22,Forward,Argentina,171,,Atlético De Madrid
+953,Giuliano Simeone,Argentina,23,Forward,Argentina,174,,Atlético De Madrid
+954,Nicolas Paz,Argentina,24,Forward,Argentina,185,,Como
+957,Jose Manuel Alberto Lopez,Argentina,25,Forward,Argentina,190,,SE Palmeiras
+958,Lautaro Javier Martinez,Argentina,26,Forward,Argentina,175,,FC Internazionale Milano
+963,Melvin Feycal Mastil,Algeria,1,Goalkeeper,Algeria,194,,FC Stade Nyonnais
+978,Oussama Benbot,Algeria,16,Goalkeeper,Algeria,188,,USM Alger
+985,Luca Zinedine Zidane,Algeria,23,Goalkeeper,Algeria,183,,Granada CF
+964,Aissa Mandi,Algeria,2,Defender,Algeria,184,,Lille OSC
+965,Achref Abada,Algeria,3,Defender,Algeria,185,,USM Alger
+966,Mohamed Amine Tougai,Algeria,4,Defender,Algeria,186,,Espérance De Tunisie
+967,Zineddine Belaid,Algeria,5,Defender,Algeria,186,,JS Kabylie
+975,Jaouen Djimmy Hadjam,Algeria,13,Defender,Algeria,185,,BSC Young Boys
+977,Rayan Ait-Nouri,Algeria,15,Defender,Algeria,180,,Manchester City FC
+979,Rafik Belghali,Algeria,17,Defender,Algeria,180,,Hellas Verona FC
+983,Selmane Rami Bensebaini,Algeria,21,Defender,Algeria,187,,Borussia Dortmund
+988,Samir Sophian Chergui,Algeria,26,Defender,Algeria,185,,Paris FC
+968,Ramiz Larbi Zerrouki,Algeria,6,Midfielder,Algeria,183,,FC Twente
+970,Houssem-Eddine Chaabane Aouar,Algeria,8,Midfielder,Algeria,175,,Al Ittihad
+972,Fares Chaibi,Algeria,10,Midfielder,Algeria,183,,Eintracht Frankfurt
+976,Hicham Boudaoui,Algeria,14,Midfielder,Algeria,175,,OGC Nice
+981,Nabil Bentaleb,Algeria,19,Midfielder,Algeria,189,,Lille OSC
+984,Ibrahim Maza,Algeria,22,Midfielder,Algeria,180,,Bayer 04 Leverkusen
+986,Yassine Titraoui,Algeria,24,Midfielder,Algeria,180,,Sporting Charleroi
+969,Riyad Karim Mahrez,Algeria,7,Forward,Algeria,179,,Al Ahli FC
+971,Amine Ferid Gouiri,Algeria,9,Forward,Algeria,180,,Olympique Marseille
+973,Anis Hadj Moussa,Algeria,11,Forward,Algeria,176,,Feyenoord Rotterdam
+974,Ahmed Nadhir Benbouali,Algeria,12,Forward,Algeria,190,,Györi ETO FC
+980,Mohammed Elamine Amoura,Algeria,18,Forward,Algeria,170,,VfL Wolfsburg
+982,Adil Boulbina,Algeria,20,Forward,Algeria,183,,Al Duhail SC
+987,Fares Ghedjemis,Algeria,25,Forward,Algeria,183,,Frosinone
+989,Alexander Schlager,Austria,1,Goalkeeper,Austria,188,,FC Red Bull Salzburg
+1000,Florian Wiegele,Austria,12,Goalkeeper,Austria,205,,FC Viktoria Plze ň
+1001,Patrick Pentz,Austria,13,Goalkeeper,Austria,183,,Brøndby IF
+990,David Leopold Affengruber,Austria,2,Defender,Austria,185,,Elche CF
+991,Kevin Danso,Austria,3,Defender,Austria,190,,Tottenham Hotspur FC
+993,Stefan Posch,Austria,5,Defender,Austria,188,,1. FSV Mainz 05
+996,David Alaba,Austria,8,Defender,Austria,180,,Real Madrid C. F.
+1003,Philipp Lienhart,Austria,15,Defender,Austria,189,,SC Freiburg
+1004,Phillip Mwene,Austria,16,Defender,Austria,170,,1. FSV Mainz 05
+1011,Marco Friedl,Austria,23,Defender,Austria,187,,SV Werder Bremen
+1013,Michael Svoboda,Austria,25,Defender,Austria,195,,Venezia FC
+992,Xaver Schlager,Austria,4,Midfielder,Austria,174,,RB Leipzig
+994,Nicolas Seiwald,Austria,6,Midfielder,Austria,179,,RB Leipzig
+997,Marcel Sabitzer,Austria,9,Midfielder,Austria,178,,Borussia Dortmund
+998,Florian Grillitsch,Austria,10,Midfielder,Austria,186,,SC Braga
+1005,Carney Chibueze Chukwuemeka,Austria,17,Midfielder,Austria,187,,Borussia Dortmund
+1006,Romano Schmid,Austria,18,Midfielder,Austria,168,,SV Werder Bremen
+1007,Dejan Ljubicic,Austria,19,Midfielder,Austria,187,,FC Schalke 04
+1008,Konrad Laimer,Austria,20,Midfielder,Austria,180,,FC Bayern München
+1010,Alexander Prass,Austria,22,Midfielder,Austria,180,,TSG Hoffenheim
+1012,Paul Wanner,Austria,24,Midfielder,Austria,185,,PSV Eindhoven
+1014,Alessandro Andre Schoepf,Austria,26,Midfielder,Austria,178,,Wolfsberger AC
+995,Marko Arnautovic,Austria,7,Forward,Austria,192,,FK Crvena Zvezda
+999,Michael Gregoritsch,Austria,11,Forward,Austria,193,,FC Augsburg
+1002,Saša Kalajdzic,Austria,14,Forward,Austria,200,,LASK Linz
+1009,Patrick Wimmer,Austria,21,Forward,Austria,182,,VfL Wolfsburg
+1015,Mo'ien Hasan Yazeed Abulaila,Jordan,1,Goalkeeper,Jordan,188,,Al Hussein SC
+1026,Zaid Khaleel Nour Baniateyah,Jordan,2,Goalkeeper,Jordan,179,,Al Faisaly SC
+1036,Ra'ed Mahmoud Abdallah Alfakhori,Jordan,3,Goalkeeper,Jordan,190,,Al Wahdat SC
+1016,Ali Hasan Mohammad,Jordan,4,Defender,Jordan,179,,Al Karma SC
+1017,Mousa Musallam Abdallah Nasib,Jordan,5,Defender,Jordan,184,,Al Zawra'a SC
+1018,Ali Mohammad Husam Abudahab,Jordan,6,Defender,Jordan,186,,Al Faisaly SC
+1019,Mousa Mahmoud Yazan Alarab,Jordan,7,Defender,Jordan,185,,FC Seoul
+1030,Majed Jamil Mohammad Abualnadi,Jordan,8,Defender,Jordan,185,,Selangor FC
+1031,Amer Saleem,Jordan,9,Defender,Jordan,187,,Al Hussein SC
+1033,Ahmad Salameh Saed,Jordan,10,Defender,Jordan,186,,Al Hussein SC
+1037,Manel Farhan Ehsan Haddad,Jordan,11,Defender,Jordan,174,,Al Hussein SC
+1040,Said Ghazi Anas Badawi,Jordan,12,Defender,Jordan,174,,Al Faisaly SC
+1020,Rasem Adel Amer Jamous,Jordan,13,Midfielder,Jordan,177,,Al Zawra'a SC
+1022,Mahmoud Ali Noor Alrawabdeh,Jordan,14,Midfielder,Jordan,182,,Selangor FC
+1028,Ayed Fadel Rajaei Ayed,Jordan,15,Midfielder,Jordan,175,,Al Hussein SC
+1029,Mohammad Sami Ibrahim,Jordan,16,Midfielder,Jordan,175,,Al Karma SC
+1032,Ahmed Mohammad,Jordan,17,Midfielder,Jordan,182,,Al Hussein SC
+1034,Mahmoud Saleh Mohannad Abutaha,Jordan,18,Midfielder,Jordan,173,,Al-Quwa Al-Jawiya
+1035,Mahmoud Ahmed Nizar Alrashdan,Jordan,19,Midfielder,Jordan,183,,Qatar SC
+1039,Ratib Mohammad Aldaoud,Jordan,20,Midfielder,Jordan,185,,Al Wahdat SC
+1021,Faisal Yousef Mohammad,Jordan,21,Forward,Jordan,170,,Raja Casablanca
+1023,Iyad Ali Olwan,Jordan,22,Forward,Jordan,182,,Al Sailiya SC
+1024,Mohammad Mousa Altamari,Jordan,23,Forward,Jordan,176,,Stade Rennais FC
+1025,Burhan Shehadeh Odeh Fakhoury,Jordan,24,Forward,Jordan,180,,Pyramids FC
+1027,Nayef Ahmad Mahmoud Almardi,Jordan,25,Forward,Jordan,173,,Al Hussein SC
+1038,Ahmad Ali Azaizeh,Jordan,26,Forward,Jordan,178,,Al Shabab FC
+1041,Diogo Costa,Portugal,1,Goalkeeper,Portugal,188,,FC Porto
+1052,Pedro Jose Sa,Portugal,18,Goalkeeper,Portugal,192,,Wolverhampton Wanderers FC
+1062,Tiago Rui Silva,Portugal,22,Goalkeeper,Portugal,191,,Sporting CP
+1042,SEMEDONélson Nelson,Portugal,2,Defender,Portugal,179,,Fenerbahçe SK
+1043,Rúben Ruben Dias,Portugal,3,Defender,Portugal,187,,Manchester City FC
+1044,Tomás Tomas Araujo,Portugal,4,Defender,Portugal,187,,SL Benfica
+1045,Diogo Dalot,Portugal,5,Defender,Portugal,184,,Manchester United FC
+1053,Renato Veiga,Portugal,13,Defender,Portugal,188,,Villarreal CF
+1054,Gonçalo Goncalo Inacio,Portugal,14,Defender,Portugal,185,,Sporting CP
+1060,Pedro Joao Cancelo,Portugal,20,Defender,Portugal,173,,FC Barcelona
+1064,Samuel Samu Costa,Portugal,24,Defender,Portugal,185,,RCD Mallorca
+1065,Alexandre Nuno,Portugal,18,Defender,Portugal,177,,Paris Saint-Germain
+1046,Luiz Matheus,Portugal,6,Midfielder,Portugal,183,,Manchester City FC
+1048,Miguel Bruno,Portugal,14,Midfielder,Portugal,183,,Manchester United FC
+1050,Bernardo Silva,Portugal,10,Midfielder,Portugal,173,,Manchester City FC
+1055,Pedro Joao Neves,Portugal,15,Midfielder,Portugal,171,,Paris Saint-Germain
+1061,Diogo Ruben,Portugal,5,Midfielder,Portugal,183,,Al Hilal SC
+1063,Vitor Vitinha,Portugal,23,Midfielder,Portugal,170,,Paris Saint-Germain
+1047,Ronaldo Cristiano Ronaldo,Portugal,7,Forward,Portugal,185,,Al Nassr FC
+1049,RAMOSGonçalo Goncalo,Portugal,14,Forward,Portugal,185,,Paris Saint-Germain
+1051,João Joao Felix,Portugal,11,Forward,Portugal,179,,Al Nassr FC
+1056,António Francisco Trincao,Portugal,16,Forward,Portugal,184,,Sporting CP
+1057,Alexandre Rafael Leao,Portugal,17,Forward,Portugal,188,,AC Milan
+1058,Pedro Neto,Portugal,18,Forward,Portugal,174,,Chelsea FC
+1059,Manuel Goncalo,Portugal,7,Forward,Portugal,179,,Real Sociedad
+1066,Francisco Conceicao,Portugal,26,Forward,Portugal,166,,Juventus FC
+1067,Lionel Nzau Mpasi,DR Congo,1,Goalkeeper,DR Congo,182,,Le Havre AC
+1082,Timothy Bruce Munzoko Fayulu,DR Congo,16,Goalkeeper,DR Congo,192,,FC Noah
+1087,Matthieu Luka Epolo,DR Congo,21,Goalkeeper,DR Congo,183,,Standard Liège
+1068,Wan Wan-Bissaka,DR Congo,2,Defender,DR Congo,183,,West Ham United FC
+1069,Steve Nkanu Kapuadi,DR Congo,3,Defender,DR Congo,196,,Widzew Ł ód ź
+1070,Axel Tuanzebe,DR Congo,4,Defender,DR Congo,188,,Burnley FC
+1071,Dylan Buduka Batubinsika,DR Congo,5,Defender,DR Congo,185,,AEL FC
+1078,Joris Kayembe,DR Congo,12,Defender,DR Congo,180,,KRC Genk
+1088,Mangulu Chancel Mbemba,DR Congo,22,Defender,DR Congo,182,,Lille OSC
+1090,Gédéon Tchingoma Kyatengwa Kalulu,DR Congo,24,Defender,DR Congo,178,,Aris Limassol FC
+1092,Arthur Fuka Masuaku,DR Congo,26,Defender,DR Congo,179,,RC Lens
+1072,Ngal’ayel Mukau,DR Congo,6,Midfielder,DR Congo,186,,Lille OSC
+1073,Nathanaël Mbuku,DR Congo,7,Midfielder,DR Congo,170,,Montpellier HSC
+1074,Samuel Alain Moutoussamy,DR Congo,8,Midfielder,DR Congo,176,,Atromitos FC
+1076,Theo Mbulofeko Batombo Bongonda,DR Congo,10,Midfielder,DR Congo,176,,FC Spartak Moscow
+1080,Noah Junior Sadiki,DR Congo,14,Midfielder,DR Congo,165,,Sunderland AFC
+1081,Tshibola,DR Congo,15,Midfielder,DR Congo,184,,Kilmarnock FC
+1084,Charles Monginda Pickel,DR Congo,18,Midfielder,DR Congo,187,,RCD Espanyol
+1091,Edo Kayembe,DR Congo,25,Midfielder,DR Congo,183,,Watford FC
+1075,Kibambe Brian Cipenga,DR Congo,9,Forward,DR Congo,172,,CD Castellón
+1077,Gaël Roméo Kakuta,DR Congo,11,Forward,DR Congo,174,,AEL FC
+1079,Meschack Lina Elia,DR Congo,13,Forward,DR Congo,173,,Alanyaspor
+1083,Cedric Bakambu,DR Congo,17,Forward,DR Congo,182,,Real Betis
+1085,Mayele Fiston Mayele,DR Congo,19,Forward,DR Congo,185,,Pyramids FC
+1086,Yoane Wissa,DR Congo,20,Forward,DR Congo,176,,Newcastle United FC
+1089,Simon Bokote Banza,DR Congo,23,Forward,DR Congo,189,,Al Jazira
+1093,Utkir Yusupov,Uzbekistan,1,Goalkeeper,Uzbekistan,185,,PFC Navbahor Namangan
+1104,Abduvakhid Nematov,Uzbekistan,2,Goalkeeper,Uzbekistan,182,,Nasaf Qarshi FC
+1108,Botirali Ergashev,Uzbekistan,3,Goalkeeper,Uzbekistan,189,,FK Neftchi Farg'ona
+1094,Abdukodir Khusanov,Uzbekistan,4,Defender,Uzbekistan,186,,Manchester City FC
+1095,Khojiakbar Alijonov,Uzbekistan,5,Defender,Uzbekistan,180,,Pakhtakor Tashkent FK
+1096,Farrukh Sayfiev,Uzbekistan,6,Defender,Uzbekistan,183,,FK Neftchi Farg'ona
+1097,Rustamjon Ashurmatov,Uzbekistan,7,Defender,Uzbekistan,186,,Esteghlal Tehran FC
+1105,Sherzod Nasrullaev,Uzbekistan,8,Defender,Uzbekistan,183,,Pakhtakor Tashkent FK
+1107,Umarbek Eshmurodov,Uzbekistan,9,Defender,Uzbekistan,185,,Nasaf Qarshi FC
+1110,Abdulla Abdullaev,Uzbekistan,10,Defender,Uzbekistan,181,,Dibba FC
+1116,Behruzjon Karimov,Uzbekistan,11,Defender,Uzbekistan,172,,Surkhon FK
+1117,Avazbek Ulmasaliyev,Uzbekistan,12,Defender,Uzbekistan,187,,OKMK FK
+1118,Jakhongir Urozov,Uzbekistan,13,Defender,Uzbekistan,190,,FK Dinamo Samarkand
+1098,Akmal Mozgovoy,Uzbekistan,14,Midfielder,Uzbekistan,180,,Pakhtakor Tashkent FK
+1099,Otabek Shukurov,Uzbekistan,15,Midfielder,Uzbekistan,183,,Baniyas Club
+1100,Jamshid Iskanderov,Uzbekistan,16,Midfielder,Uzbekistan,171,,FK Neftchi Farg'ona
+1101,Odiljon Xamrobekov,Uzbekistan,17,Midfielder,Uzbekistan,180,,Tractor Sazi Tabriz FC
+1102,Ruslanbek Jiyanov,Uzbekistan,18,Midfielder,Uzbekistan,176,,PFC Navbahor Namangan
+1103,Oston Urunov,Uzbekistan,19,Midfielder,Uzbekistan,181,,Persepolis FC
+1109,Dostonbek Khamdamov,Uzbekistan,20,Midfielder,Uzbekistan,178,,Pakhtakor Tashkent FK
+1111,Azizjon Ganiev,Uzbekistan,21,Midfielder,Uzbekistan,178,,Al Bataeh Club
+1114,Abbosbek Fayzullaev,Uzbekistan,22,Midfielder,Uzbekistan,167,,Ba ş ak ş ehir FK
+1115,Sherzod Esanov,Uzbekistan,23,Midfielder,Uzbekistan,190,,FK Buxoro
+1106,Eldor Shomurodov,Uzbekistan,24,Forward,Uzbekistan,190,,Ba ş ak ş ehir FK
+1112,Azizbek Amonov,Uzbekistan,25,Forward,Uzbekistan,181,,FK Dinamo Samarkand
+1113,Igor Sergeev,Uzbekistan,26,Forward,Uzbekistan,185,,Persepolis FC
+1119,David Ospina,Colombia,1,Goalkeeper,Colombia,183,,Atlético Nacional
+1130,Camilo Andres Vargas,Colombia,12,Goalkeeper,Colombia,183,,Atlas FC
+1142,Álvaro David Montero,Colombia,24,Goalkeeper,Colombia,201,,CA Vélez Sarsfield
+1120,Daniel Munoz,Colombia,2,Defender,Colombia,180,,Crystal Palace FC
+1121,Jhon Janer Lucumi,Colombia,3,Defender,Colombia,187,,Bologna FC
+1122,Santiago Arias,Colombia,4,Defender,Colombia,177,,CA Independiente
+1131,Yerry Fernando Mina,Colombia,13,Defender,Colombia,195,,Cagliari
+1132,Gustavo Adolfo Puerta,Colombia,14,Defender,Colombia,173,,Racing Santander
+1135,Johan Andrés Mojica,Colombia,17,Defender,Colombia,184,,RCD Mallorca
+1136,Willer Emilio Ditta,Colombia,18,Defender,Colombia,179,,CF Cruz Azul
+1140,Deiver Machado,Colombia,22,Defender,Colombia,173,,FC Nantes
+1141,Davinson Sanchez,Colombia,23,Defender,Colombia,188,,Galatasaray SK
+1123,Kevin Duvan Castano,Colombia,5,Midfielder,Colombia,179,,CA River Plate
+1124,Richard Rios,Colombia,6,Midfielder,Colombia,185,,SL Benfica
+1126,Jorge Andres Carrascal,Colombia,8,Midfielder,Colombia,180,,CR Flamengo
+1128,James David Rodriguez,Colombia,10,Midfielder,Colombia,181,,Minnesota United FC
+1129,Jhon Adolfo Arias,Colombia,11,Midfielder,Colombia,168,,SE Palmeiras
+1133,Juan Camilo Portilla,Colombia,15,Midfielder,Colombia,181,,Athletico Paranaense
+1134,Jefferson Andrés Lerma,Colombia,16,Midfielder,Colombia,180,,Crystal Palace FC
+1138,Juan Fernando Quintero,Colombia,20,Midfielder,Colombia,167,,CA River Plate
+1125,Luis Fernando Diaz,Colombia,20,Forward,Colombia,179,,FC Bayern München
+1127,Jhon Andrés Cordoba,Colombia,9,Forward,Colombia,186,,FC Krasnodar
+1137,Juan Camilo Hernandez,Colombia,19,Forward,Colombia,176,,Real Betis
+1139,Jaminton Leandro Campaz,Colombia,21,Forward,Colombia,166,,CA Rosario Central
+1143,Luis Javier Suarez,Colombia,25,Forward,Colombia,179,,Sporting CP
+1144,Carlos Andrés Gomez,Colombia,26,Forward,Colombia,170,,CR Vasco Da Gama
+1145,Jordan Lee Pickford,England,1,Goalkeeper,England,185,,Everton FC
+1157,Dean Bradley Henderson,England,13,Goalkeeper,England,188,,Crystal Palace FC
+1167,James Harrington Trafford,England,23,Goalkeeper,England,197,,Manchester City FC
+1146,Ezri Ngoyo Konsa,England,2,Defender,England,180,,Aston Villa FC
+1147,Nico Oreilly,England,3,Defender,England,177,,Manchester City FC
+1149,John Stones,England,5,Defender,England,188,,Manchester City FC
+1150,Keaninkin Marc-Isreal Guehi,England,7,Defender,England,183,,Manchester City FC
+1156,Trevoh Tom Chalobah,England,12,Defender,England,192,,Chelsea FC
+1159,Daniel Johnson Burn,England,15,Defender,England,201,,Newcastle United FC
+1168,Reece Lewis James,England,24,Defender,England,180,,Chelsea FC
+1169,Tehuti Djed-Hotep Spence,England,25,Defender,England,184,,Tottenham Hotspur FC
+1170,Jarell Amorin Quansah,England,26,Defender,England,190,,Bayer 04 Leverkusen
+1148,Declan Rice,England,4,Midfielder,England,185,,Arsenal FC
+1152,Elliot Junior Anderson,England,8,Midfielder,England,179,,Nottingham Forest FC
+1154,Jude Victor William Bellingham,England,10,Midfielder,England,183,,Real Madrid C. F.
+1158,Jordan Brian Henderson,England,14,Midfielder,England,183,,Brentford FC
+1160,Kobbie Boateng Mainoo,England,16,Midfielder,England,183,,Manchester United FC
+1161,Morgan Elliot Rogers,England,17,Midfielder,England,187,,Aston Villa FC
+1165,Eberechi Oluchi Eze,England,21,Midfielder,England,178,,Arsenal FC
+1151,Bukayo Ayoyinka Saka,England,7,Forward,England,178,,Arsenal FC
+1153,Harry Edward Kane,England,9,Forward,England,190,,FC Bayern München
+1155,Marcus Rashford,England,11,Forward,England,180,,FC Barcelona
+1162,Anthony Michael Gordon,England,18,Forward,England,182,,Newcastle United FC
+1163,George Arthur Watkins,England,19,Forward,England,180,,Aston Villa FC
+1164,Azuka Tristan Madueke,England,20,Forward,England,182,,Arsenal FC
+1166,Ivan Benjamin Elijah Toney,England,22,Forward,England,185,,Al Ahli FC
+1171,Dominik Livakovic,Croatia,1,Goalkeeper,Croatia,188,,GNK Dinamo Zagreb
+1182,Ivor Pandur,Croatia,2,Goalkeeper,Croatia,187,,Hull City FC
+1193,Dominik Kotarski,Croatia,3,Goalkeeper,Croatia,190,,FC København
+1172,Josip Stanisic,Croatia,4,Defender,Croatia,186,,FC Bayern München
+1173,Marin Pongracic,Croatia,5,Defender,Croatia,193,,ACF Fiorentina
+1174,Joško Gvardiol,Croatia,6,Defender,Croatia,185,,Manchester City FC
+1175,Duje Caleta-Car,Croatia,7,Defender,Croatia,193,,Real Sociedad
+1176,Josip Sutalo,Croatia,8,Defender,Croatia,185,,AFC Ajax
+1188,Kristijan Jakic,Croatia,9,Defender,Croatia,181,,FC Augsburg
+1192,Luka Vuskovic,Croatia,10,Defender,Croatia,193,,Hamburger SV
+1195,Martin Erlic,Croatia,11,Defender,Croatia,192,,FC Midtjylland
+1177,Nikola Moro,Croatia,12,Midfielder,Croatia,183,,Bologna FC
+1178,Mateo Kovacic,Croatia,13,Midfielder,Croatia,178,,Manchester City FC
+1180,Luka Modric,Croatia,14,Midfielder,Croatia,172,,AC Milan
+1183,Nikola Vlasic,Croatia,15,Midfielder,Croatia,179,,Torino FC
+1185,Mario Pasalic,Croatia,16,Midfielder,Croatia,188,,Atalanta Bergamo
+1186,Martin Baturina,Croatia,17,Midfielder,Croatia,172,,Como
+1187,Petar Sucic,Croatia,18,Midfielder,Croatia,183,,FC Internazionale Milano
+1189,Toni Fruk,Croatia,19,Midfielder,Croatia,177,,HNK Rijeka
+1191,Luka Sucic,Croatia,20,Midfielder,Croatia,185,,Real Sociedad
+1179,Andrej Kramaric,Croatia,21,Forward,Croatia,177,,TSG Hoffenheim
+1181,Ante Budimir,Croatia,22,Forward,Croatia,190,,CA Osasuna
+1184,Ivan Perisic,Croatia,23,Forward,Croatia,186,,PSV Eindhoven
+1190,Igor Matanovic,Croatia,24,Forward,Croatia,194,,SC Freiburg
+1194,Marco Pasalic,Croatia,25,Forward,Croatia,177,,Orlando City SC
+1196,Petar Musa,Croatia,26,Forward,Croatia,190,,FC Dallas
+1197,Lawrence Ati Zigi,Ghana,1,Goalkeeper,Ghana,188,,FC St. Gallen
+1208,Joseph Tetteh Anang,Ghana,12,Goalkeeper,Ghana,190,,St Patrick's Athletic FC
+1212,Benjamin Asare,Ghana,16,Goalkeeper,Ghana,188,,Hearts Of Oak SC
+1198,Alidu Seidu,Ghana,2,Defender,Ghana,173,,Stade Rennais FC
+1200,Jonas Adjei Adjetey,Ghana,4,Defender,Ghana,188,,VfL Wolfsburg
+1202,Abdul Mumin,Ghana,6,Defender,Ghana,188,,Rayo Vallecano
+1210,Gideon Mensah,Ghana,14,Defender,Ghana,178,,AJ Auxerre
+1213,Abdul Rahman,Ghana,17,Defender,Ghana,179,,PAOK Saloniki
+1214,Jerome Opoku,Ghana,18,Defender,Ghana,197,,Ba ş ak ş ehir FK
+1217,Kojo Peprah Oppong,Ghana,21,Defender,Ghana,185,,OGC Nice
+1219,Derrick Luckassen,Ghana,23,Defender,Ghana,188,,Pafos FC
+1222,Marvin Elom Senaya,Ghana,26,Defender,Ghana,181,,AJ Auxerre
+1199,Caleb Marfo Yirenkyi,Ghana,3,Midfielder,Ghana,182,,FC Nordsjælland
+1201,Thomas Teye Partey,Ghana,5,Midfielder,Ghana,185,,Villarreal CF
+1204,Kwasi Sibo,Ghana,8,Midfielder,Ghana,183,,Real Oviedo
+1207,Antoine Serlom Semenyo,Ghana,11,Midfielder,Ghana,185,,Manchester City FC
+1211,Elisha Owusu,Ghana,15,Midfielder,Ghana,182,,AJ Auxerre
+1216,Augustine Boakye,Ghana,20,Midfielder,Ghana,178,,AS Saint-Etienne
+1203,Abdul Fatawu,Ghana,7,Forward,Ghana,177,,Leicester City FC
+1205,Jordan Pierre Ayew,Ghana,9,Forward,Ghana,182,,Leicester City FC
+1206,Brandon Michael Clarke Thomas-Asante,Ghana,10,Forward,Ghana,182,,Coventry City FC
+1209,Christopher Bonsu Baah,Ghana,13,Forward,Ghana,172,,Al Qadsiah FC
+1215,Inaki Williams,Ghana,19,Forward,Ghana,186,,Athletic Club
+1218,Kamal Deen Sulemana,Ghana,22,Forward,Ghana,174,,Atalanta Bergamo
+1220,Ernest Nuamah,Ghana,24,Forward,Ghana,178,,Olympique Lyonnais
+1221,Prince Kwabena Adu,Ghana,25,Forward,Ghana,179,,FC Viktoria Plze ň
+1223,Luis Ricardo Mejia,Panama,1,Goalkeeper,Panama,193,,Club Nacional
+1234,Cesar Jair Samudio,Panama,12,Goalkeeper,Panama,189,,CD Marathón
+1244,Orlando Mosquera,Panama,22,Goalkeeper,Panama,191,,Al Fayha FC
+1224,Cesar Rodolfo Blackman,Panama,2,Defender,Panama,174,,Š K Slovan Bratislava
+1225,Jose Angel Cordoba,Panama,3,Defender,Panama,189,,Norwich City FC
+1226,Fidel Escobar,Panama,4,Defender,Panama,184,,Deportivo Saprissa
+1227,Edgardo Issac Farina,Panama,5,Defender,Panama,195,,FC Pari Nizhny Novgorod
+1235,Jiovany Javier Ramos,Panama,13,Defender,Panama,188,,Puerto Cabello CF
+1236,Carlos Miguel Harvey,Panama,14,Defender,Panama,184,,Minnesota United FC
+1237,Eric Javier Davis,Panama,15,Defender,Panama,180,,CD Plaza Amador
+1238,Andres Alberto Andrade,Panama,16,Defender,Panama,187,,LASK Linz
+1245,Michael Amir Murillo,Panama,23,Defender,Panama,185,,Be ş ikta ş  JK
+1247,Roderick Alonso Miller,Panama,25,Defender,Panama,190,,Turan Tovuz
+1248,Jorge Abdiel Gutierrez,Panama,26,Defender,Panama,171,,Deportivo La Guaira
+1228,Cristian Jesus Martinez,Panama,6,Midfielder,Panama,170,,Hapoel Kiryat Shmona FC
+1229,Jose Luis Rodriguez,Panama,7,Midfielder,Panama,180,,FC Juárez
+1230,Adalberto Eliecer Carrasquilla,Panama,8,Midfielder,Panama,171,,Pumas UNAM
+1232,Ismael Diaz,Panama,10,Midfielder,Panama,184,,Club León
+1233,Edgar Yoel Barcenas,Panama,11,Midfielder,Panama,175,,Mazatlán FC
+1241,Alberto Abdiel Quintero,Panama,19,Midfielder,Panama,165,,CD Plaza Amador
+1242,Anibal Casis Godoy,Panama,20,Midfielder,Panama,184,,San Diego FC
+1243,Cesar Augusto Yanis,Panama,21,Midfielder,Panama,160,,CD Cobresal
+1231,Tomas Abdiel Rodriguez,Panama,9,Forward,Panama,183,,Deportivo Saprissa
+1239,Jose Fajardo,Panama,17,Forward,Panama,184,,CD Universidad Católica
+1240,Cecilio Alfonso Waterman,Panama,18,Forward,Panama,180,,CD Universidad De Concepción
+1246,Azarías Emmanuel Londono,Panama,24,Forward,Panama,185,,CD Universidad Católica
